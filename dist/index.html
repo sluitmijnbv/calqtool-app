@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CalqTool™ | Transparante bouwkostenberekening</title>
+  <script type="module" crossorigin src="/assets/index-BNBGaSTc.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-CSMJqGM3.css">
+</head>
+<body>
+
+<div id="ct-app"
+     data-api="https://calqtool-worker-production.mdvlijter.workers.dev/"
+     data-customer="demo">
+
+  <!-- SIDEBAR -->
+  <aside class="ct-sidebar">
+    <div class="ct-sidebar-header">
+      <img src="https://cdn.shopify.com/s/files/1/0957/5710/7587/files/calqtool.png?v=1770739024" />
+    </div>
+
+    <nav>
+      <button class="ct-nav-item active" data-view="overview">Overzicht</button>
+      <button class="ct-nav-item" data-view="builder">Calculatie</button>
+      <button class="ct-nav-item" data-view="report">Rapport</button>
+    </nav>
+
+    <div class="ct-sidebar-footer">
+      <button id="ct-open-assistant" class="ct-btn-primary">
+        Projecthulp
+      </button>
+    </div>
+  </aside>
+
+  <!-- MAIN -->
+  <div class="ct-main-wrapper">
+
+    <header class="ct-topbar">
+      <h1 id="ct-page-title">Overzicht</h1>
+
+      <div style="display:flex;gap:20px;align-items:center;">
+        <div id="ct-plan-badge" class="ct-plan-badge">Trial</div>
+
+        <div>
+          <span id="usage-measure">0 / 0</span>
+          <div class="ct-usage-bar">
+            <div class="ct-usage-fill"></div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main class="ct-content">
+
+      <!-- OVERVIEW -->
+      <section id="view-overview" class="ct-view active">
+        <div class="ct-card">
+          <h2>Welkom bij CalqTool</h2>
+        </div>
+      </section>
+
+      <!-- BUILDER -->
+      <section id="view-builder" class="ct-view">
+        <div class="ct-card">
+
+          <div class="ct-drawing-upload">
+            <input type="file" id="ct-drawing-file" accept="image/*,application/pdf">
+            <button id="ct-analyze-drawing" class="ct-btn-primary">
+              Analyseer tekening
+            </button>
+          </div>
+
+          <div id="ct-execution-selector" class="ct-execution-selector"></div>
+
+          <div class="ct-builder-grid">
+
+            <div class="ct-builder-left">
+              <div id="ct-element-list"></div>
+            </div>
+
+            <div class="ct-builder-right">
+
+              <table class="ct-table">
+                <thead>
+                  <tr>
+                    <th>Onderdeel</th>
+                    <th>Aantal</th>
+                    <th>Eenheid</th>
+                    <th>Arbeid</th>
+                    <th>Materiaal</th>
+                    <th>Totaal</th>
+                  </tr>
+                </thead>
+                <tbody id="ct-selected-elements"></tbody>
+              </table>
+
+              <div id="ct-construction-section"
+                   class="ct-construction hidden">
+                <h3>
+                  Constructie
+                  <span class="ct-stelpost-badge">
+                    Stelpost
+                  </span>
+                </h3>
+                <div id="ct-construction-elements"></div>
+              </div>
+
+              <div class="ct-total-bar">
+                <strong id="ct-total">€ 0,00</strong>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- REPORT -->
+      <section id="view-report" class="ct-view">
+        <div class="ct-card">
+          <h2>Rapport</h2>
+          <button id="ct-generate-report" class="ct-btn-primary">
+            Genereer rapport
+          </button>
+        </div>
+      </section>
+
+    </main>
+  </div>
+
+  <!-- ASSISTENT -->
+  <div id="ct-assistant" class="ct-assistant hidden">
+    <div id="ct-assistant-messages"
+         class="ct-assistant-messages"></div>
+    <input type="text"
+           id="ct-assistant-input"
+           placeholder="Typ je vraag…">
+    <button id="ct-assistant-send"
+            class="ct-btn-primary">
+      Verstuur
+    </button>
+  </div>
+
+</div>
+
+</body>
+</html>
