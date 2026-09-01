@@ -1,0 +1,12 @@
+Plaats hier je echte CalqCore-bestanden (NIET committen naar public GitHub):
+
+  data/library/calqcore_library_2026_v3.json
+  data/context/calqcore_context_2026_v3.json
+
+Deze bestanden staan in .gitignore.
+
+Kopieer vanuit je lokale map:
+  cp /pad/naar/calqcore_library_2026_v3.json data/library/
+  cp /pad/naar/calqcore_context_2026_v3.json data/context/
+
+Zie config/workers.json voor de juiste API-URL.

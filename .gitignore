@@ -1,3 +1,16 @@
 node_modules/
 dist/
+
+# CalqCore library (proprietary — never commit real files)
+public/data/library/calqcore_library_*.json
+public/data/library/calqcore_library_*.json.gz
+public/data/context/calqcore_context_*.json
+public/data/context/calqcore_context_*.json.gz
+
+# Local secrets
+.env
+.env.local
+.env.*.local
+
+# Project PDF copies (source PDFs may be committed separately)
 projects/herenstraat-64/extracted/pdfs/

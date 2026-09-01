@@ -1,8 +1,10 @@
 import './styles.css'
 
-import { renderLayout } from './ui/layout.js'
+import { initLayout } from './ui/layout.js'
 import { initState } from './core/state.js'
 import { restore } from './modules/performance.js'
+import { initLibrary } from './core/library.js'
+import { state } from './core/state.js'
 
 import './modules/plan.js'
 import './modules/project.js'
@@ -15,7 +17,8 @@ import './modules/performance.js'
 import './modules/builder.js'
 import './ui/builderView.js'
 
-renderLayout()
+initLayout()
 initState()
 restore()
+initLibrary(state)
 initBulkUpload()

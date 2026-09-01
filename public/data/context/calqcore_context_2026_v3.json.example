@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "version": "2026_v3.0",
+    "description": "Voorbeeldstructuur — GEEN echte data. Vervang door jouw lokale calqcore_context_2026_v3.json"
+  },
+  "regions": ["randstad", "landelijk"],
+  "defaults_by_projectCategory": {
+    "transformatie": {
+      "laborRate": 45,
+      "regionFactor": 1.08
+    }
+  }
+}

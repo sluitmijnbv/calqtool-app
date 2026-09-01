@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "version": "2026_v3.0",
+    "schema_version": "3.0",
+    "description": "Voorbeeldstructuur — GEEN echte prijzen. Vervang door jouw lokale calqcore_library_2026_v3.json"
+  },
+  "elements": {
+    "BW-FO-EXAMPLE": {
+      "code": "BW-FO-EXAMPLE",
+      "name": "Voorbeeld vloerelement",
+      "unit": "m2",
+      "material": 0,
+      "labor_hours": 0,
+      "status": "active"
+    }
+  }
+}
