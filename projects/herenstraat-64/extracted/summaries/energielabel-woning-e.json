@@ -1,0 +1,25 @@
+{
+  "fileName": "Energielabel woning E .pdf",
+  "relativePath": "Energielabel woning E .pdf",
+  "slug": "energielabel-woning-e",
+  "pages": 8,
+  "categories": [
+    "gevel",
+    "detail",
+    "installatie"
+  ],
+  "floors": [],
+  "scale": null,
+  "areasFound": [
+    "94,7 m2",
+    "18 m2"
+  ],
+  "title": "Energielabel 875729897",
+  "textLength": 34432,
+  "textPreview": "Registratienummer Datum registratie Geldig tot Status Energielabel woningen 875729897 22-05-2025 Tot oplevering Voorlopig +++ Deze woning heeft energielabel A G PI Isolatie Installaties 1 Gevels 7 Verwarming Warmtepomp 2 Gevelpanelen 8 Warm water Warmtepomp 3 Daken 4 Vloeren 5 Ramen 6 Buitendeuren 10 Ventilatie 11 Koeling LO 9 Zonneboiler 12 Zonnepanelen Geen zonneboiler Natuurlijke toevoer met mechanische afzuiging Koeling aanwezig 4050 Wp Deze woning wordt niet verwarmd via een aardgasaansluit",
+  "paths": {
+    "pdf": "projects/herenstraat-64/extracted/pdfs/Energielabel woning E .pdf",
+    "text": "projects/herenstraat-64/extracted/texts/energielabel-woning-e.txt",
+    "summary": "projects/herenstraat-64/extracted/summaries/energielabel-woning-e.json"
+  }
+}

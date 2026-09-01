@@ -1,0 +1,22 @@
+{
+  "fileName": "Plattegrond begane grond nieuw.pdf",
+  "relativePath": "Plattegrond begane grond nieuw.pdf",
+  "slug": "plattegrond-begane-grond-nieuw",
+  "pages": 1,
+  "categories": [
+    "plattegrond"
+  ],
+  "floors": [
+    "BG"
+  ],
+  "scale": null,
+  "areasFound": [],
+  "title": "Herenstraat 64-B10",
+  "textLength": 582,
+  "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+  "paths": {
+    "pdf": "projects/herenstraat-64/extracted/pdfs/Plattegrond begane grond nieuw.pdf",
+    "text": "projects/herenstraat-64/extracted/texts/plattegrond-begane-grond-nieuw.txt",
+    "summary": "projects/herenstraat-64/extracted/summaries/plattegrond-begane-grond-nieuw.json"
+  }
+}

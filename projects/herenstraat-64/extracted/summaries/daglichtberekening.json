@@ -1,0 +1,21 @@
+{
+  "fileName": "Daglichtberekening .pdf",
+  "relativePath": "Daglichtberekening .pdf",
+  "slug": "daglichtberekening",
+  "pages": 2,
+  "categories": [
+    "gevel",
+    "detail"
+  ],
+  "floors": [],
+  "scale": null,
+  "areasFound": [],
+  "title": "Daglichtberekening.docx",
+  "textLength": 580,
+  "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 Daglichtberekening Kozijnmerken, overzicht gevels Tuingevel Gevel Pioenstraat Aanzicht: Gevel Herenstraat binnengevel buitengevel berekening vl. NEN 2580 en NTA 2581",
+  "paths": {
+    "pdf": "projects/herenstraat-64/extracted/pdfs/Daglichtberekening .pdf",
+    "text": "projects/herenstraat-64/extracted/texts/daglichtberekening.txt",
+    "summary": "projects/herenstraat-64/extracted/summaries/daglichtberekening.json"
+  }
+}

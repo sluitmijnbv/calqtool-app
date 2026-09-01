@@ -1,0 +1,20 @@
+{
+  "fileName": "Herenstraat 64-SL-12.pdf.pdf",
+  "relativePath": "Herenstraat 64-SL-12.pdf.pdf",
+  "slug": "herenstraat-64-sl-12pdf",
+  "pages": 1,
+  "categories": [
+    "onbekend"
+  ],
+  "floors": [],
+  "scale": null,
+  "areasFound": [],
+  "title": "Herenstraat 64-SL-12",
+  "textLength": 570,
+  "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+  "paths": {
+    "pdf": "projects/herenstraat-64/extracted/pdfs/Herenstraat 64-SL-12.pdf.pdf",
+    "text": "projects/herenstraat-64/extracted/texts/herenstraat-64-sl-12pdf.txt",
+    "summary": "projects/herenstraat-64/extracted/summaries/herenstraat-64-sl-12pdf.json"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "plan": "trial",
+  "usage": { "measure": 0, "review": 0, "export": 0 },
+  "region": "randstad",
+  "year": "2026",
+  "executionIndex": 0,
+  "project": {
+    "id": "herenstraat-64-leiden",
+    "name": "Transformatie Herenstraat 64 Leiden",
+    "type": "transformatie",
+    "address": "Herenstraat 64, 2313 AM Leiden",
+    "permitRef": "Z/25/3812047",
+    "scope": "turnkey",
+    "libraryVersion": "2026_v3",
+    "floorAreaM2": 482,
+    "executions": [
+      {
+        "id": "exec-turnkey",
+        "name": "Turnkey transformatie — 5 woningen",
+        "description": "Schoolgebouw naar 5 zelfstandige woningen",
+        "elements": [
+          { "code": "CT-00-SLOOP", "name": "Voorbereiding, sloop en bouwplaats", "quantity": 1, "unit": "post", "total": 62400 },
+          { "code": "CT-21-FUND", "name": "Fundering en grondwerk", "quantity": 1, "unit": "post", "total": 104500 },
+          { "code": "CT-23-RUW", "name": "Constructie en ruwbouw", "quantity": 482, "unit": "m²", "total": 380970 },
+          { "code": "CT-27-DAK", "name": "Dak en gevel", "quantity": 520, "unit": "m²", "total": 215025 },
+          { "code": "CT-28-KOZ", "name": "Kozijnen, ramen en deuren", "quantity": 210, "unit": "m²", "total": 158100 },
+          { "code": "CT-31-AFB", "name": "Binnenafwerking", "quantity": 482, "unit": "m²", "total": 192520 },
+          { "code": "CT-41-SAN", "name": "Sanitair en keukens (5 woningen)", "quantity": 5, "unit": "st", "total": 125500 },
+          { "code": "CT-42-ELEK", "name": "Elektra", "quantity": 5, "unit": "st", "total": 73000 },
+          { "code": "CT-43-WTB", "name": "WTB-installaties (WP, ventilatie)", "quantity": 5, "unit": "st", "total": 138500 },
+          { "code": "CT-44-PV", "name": "PV en energieopslag", "quantity": 45, "unit": "st", "total": 69325 },
+          { "code": "CT-45-BUIT", "name": "Buitenruimte en parkeren", "quantity": 1, "unit": "post", "total": 58500 },
+          { "code": "CT-98-STEL", "name": "Stelposten", "quantity": 1, "unit": "post", "total": 102832 }
+        ],
+        "totals": {
+          "direct": 1285400,
+          "stelposten": 102832,
+          "algemeen": 138823,
+          "winstRisico": 111059,
+          "totalExclBtw": 1638114
+        }
+      }
+    ],
+    "units": [
+      { "id": "A", "type": "Hoekwoning vierkant BG+1e", "floorAreaM2": 99, "energyLabel": "A" },
+      { "id": "B", "type": "Tussenwoning vierkant BG+1e", "floorAreaM2": 100, "energyLabel": "A" },
+      { "id": "C", "type": "Tussenwoning vierkant BG+1e", "floorAreaM2": 100, "energyLabel": "A" },
+      { "id": "D", "type": "Hoekappartement langwerpig BG", "floorAreaM2": 88, "energyLabel": "A" },
+      { "id": "E", "type": "Hoekappartement langwerpig 1e", "floorAreaM2": 95, "energyLabel": "A" }
+    ],
+    "analysis": "projects/herenstraat-64/analysis.json",
+    "budget": "projects/herenstraat-64/begroting.json",
+    "extractedIndex": "projects/herenstraat-64/extracted/index.json"
+  }
+}

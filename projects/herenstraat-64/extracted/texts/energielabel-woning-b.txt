@@ -1,0 +1,497 @@
+Registratienummer         Datum registratie            Geldig tot          Status
+Energielabel woningen                            374424810                 22-05-2025                   Tot oplevering      Voorlopig
+
+
+
+
+                                                                                        ++++
+Deze woning
+heeft energielabel                                                      A
+
+
+                                                                                                      G
+                                                                                      PI
+ Isolatie                                        Installaties
+
+ 1 Gevels                                          7 Verwarming        Warmtepomp
+
+ 2 Gevelpanelen                                    8 Warm water        Warmtepomp
+
+ 3 Daken
+
+ 4 Vloeren
+
+ 5 Ramen
+
+ 6 Buitendeuren
+                                                 10 Ventilatie
+
+                                                 11 Koeling
+                                                               LO
+                                                   9 Zonneboiler
+
+
+
+
+                                                 12 Zonnepanelen
+                                                                       Geen zonneboiler
+
+                                                                       Natuurlijke toevoer met mechanische afzuiging
+
+                                                                       Koeling aanwezig
+
+                                                                       4050 Wp
+
+
+
+
+ Deze woning wordt niet verwarmd via een aardgasaansluiting
+                               OR
+
+ Warmtebehoefte                                  Risico op hoge                                 Aandeel hernieuwbare
+ in de wintermaanden                             binnentemperaturen                             energie
+                                                 in de zomermaanden
+
+      Laag       Gemiddeld        Hoog                   Laag                 Hoog                           103,9 %
+
+ Toelichtingen en aanbevelingen vindt u op pagina 2 en verder
+
+
+Over deze woning                                                       Opnamedetails
+    VO
+
+
+
+Objectomschrijving                                                     Naam                                   Vakbekwaamheidsnummer
+Herenstraat 64, woning A                                               J.H. Hofman                            8818813
+Herenstraat 64, woning B
+                                                                       Certificaathouder
+                                                                       BuildingLabel B.V.
+
+Detailaanduiding                      Bouwjaar             -           Inschrijfnummer          KvK-nummer
+                                      Compactheid          1,94        SKGIKOB 013038           39090359
+                                                                  2
+                                      Vloeroppervlakte     100m
+                                                                       Certificerende instelling
+                                                                       SKGIKOB
+
+Woningtype                                                             Soort opname
+Tussenwoning                                                           Detailopname
+
+
+
+U kunt de geldigheid van dit energielabel controleren op www.ep-online.nl/ControlerenEchtheid
+Energielabel woningen                                                                                                                                        2 van 8
+
+
+ Toelichting bij dit energielabel
+ Voor uw woning is het energielabel bepaald. Dit label geeft aan hoe energiezuinig uw woning is. De energiezuinigheid wordt bepaald
+ door de mate van isolatie en de energiezuinigheid van de installaties die nodig zijn voor verwarming, koeling, warm water en ventilatie.
+ Ook de eventuele opbrengst van zonnepanelen wordt meegenomen in de berekening van het energielabel.
+
+
+ Hoe minder fossiele energie uw woning gebruikt, hoe beter uw energielabel. Hierbij is G het slechtste energielabel en A++++ het beste.
+ Fossiele energie komt van kolen, olie en aardgas. Uw woning gebruikt -4,10 kWh/m2 fossiele energie per jaar. Dit komt overeen
+ met -0,96 kg CO2 /m2 per jaar. De hoeveelheid fossiele energie die uw woning gebruikt, hangt af van de isolatie, de aanwezige installaties
+ en de compactheid van uw woning. Hoe compacter een woning is, des te lager is de waarde voor de compactheid. Een compacte woning
+ heeft relatief weinig buitenmuren en verliest daardoor minder energie. Het gebruik van hernieuwbare energie – denk aan zonnepanelen,
+ zonneboilers en warmtepompen – vermindert ook de fossiele energie die u nodig hebt. Isolatie en hernieuwbare energie zijn nodig voor
+ de transformatie naar een duurzame gebouwde omgeving tot 2050. Heeft u nog een aardgasaansluiting voor verwarming van uw woning,
+ dan moet u zich voorbereiden op deze overgang. Op dit energielabel vindt u adviezen hoe u dit kunt doen.
+
+                                                                                                                                            -4,10 kWh/m² per jaar
+                                                                                                                  +              ++          +++             ++++
+     G                    F               E             D             C                B            A        A               A         A                 A
+                  380               335           290           250              190          160          105          75            50             0
+
+ Hoe is het energielabel berekend? Hierbij is uitgegaan van een gemiddeld aantal bewoners, gemiddeld bewonersgedrag en het
+ gemiddelde Nederlandse klimaat. Het energiegebruik voor huishoudelijke apparatuur – zoals tv, wasmachine en koelkast – telt niet mee.
+ Dit is omdat het energielabel alleen gaat over hoe energiezuinig de woning zelf is. Het energiegebruik op het energielabel is daarom niet
+ hetzelfde als het elektriciteitsverbruik op uw energierekening.
+
+
+
+
+ Warmtebehoefte                               De warmtebehoefte is de hoeveelheid warmte die gemiddeld per jaar nodig is om uw woning voldoende
+ in de wintermaanden                          warm te krijgen. Een woning die goed geïsoleerd en kierdicht is en een energiezuinig ventilatiesysteem
+                                              heeft, heeft een lage warmtebehoefte. De warmtebehoefte van uw woning is 53,54 kWh per
+                                              vierkante meter vloeroppervlakte. Bij een warmtebehoefte van maximaal 158 kWh per vierkante meter
+ Voldoet aan de Standaard
+                                              vloeroppervlakte voldoet de woning aan de Standaard voor woningisolatie. Uw woning is dan in veel
+ voor woningisolatie?
+                                              gevallen klaar voor de overstap naar een duurzame warmtevoorziening die warmte levert op ongeveer
+         ja               nee
+                                              70 graden in de woning, zoals sommige warmtenetten.
+
+
+ Risico op hoge                               Het risico op hoge binnentemperaturen in uw woning in de zomermaanden is laag.
+ binnentemperaturen                           Maatregelen zoals buitenzonwering, zonwerende beglazing en dakisolatie beperken het risico op hoge
+ in de zomermaanden                           binnentemperaturen.
+
+
+ Aandeel hernieuwbare                         Het aandeel hernieuwbare energie dat u benut voor uw woning, is 103,9%. Hernieuwbare energie
+ energie                                      is afkomstig uit zon, biomassa, buitenlucht en bodem. Zonnepanelen, zonneboilers, warmtepompen en
+                                              biomassaketels vergroten het aandeel hernieuwbare energie.
+
+
+ Indicatie                                    Onderstaande tabel geeft een indicatie van de energierekening per maand, gebaseerd op vergelijkbare
+ energierekening                              woningen in Nederland. Uw energierekening wordt behalve door de energiezuinigheid van de woning
+ Prijspeil januari 2025                       ook door uw gedrag beïnvloed. Als u de verwarming veel aan hebt staan, veel warm water gebruikt en
+                                              veel elektrische apparatuur in gebruik heeft, dan is uw energierekening hoger. Er is in de tabel daarom
+                                              onderscheid gemaakt in laag, gemiddeld en hoog.
+
+                 G              F             E             D             C            B            A            A+          A++           A+++          A++++
+
+
+Laag             €160           €160          €160          €150          €135         €125         €115         €110        €105          €100          €100
+
+
+Gemiddeld €225                  €220          €220          €210          €190         €180         €165         €160        €155          €150          €145
+
+
+Hoog             €305           €300          €295          €280          €260         €240         €230         €220        €215          €205          €200
+Energielabel woningen                                                                                                                     3 van 8
+
+
+Kenmerken en maatregelen
+Op de voorkant van dit energielabel staat een samenvatting van de belangrijkste energetische kenmerken van uw woning. Op deze en de
+volgende pagina’s vindt u een gedetailleerder overzicht van de isolatie en installaties in uw woning. Ook leest u welke energiebesparende
+maatregelen u nog kunt treffen. Bij de toelichting over isolatie, staat telkens een streefwaarde. Deze streefwaarde geeft aan naar welk
+isolatieniveau u kunt streven als u wilt gaan na-isoleren. Als u alle bouwdelen isoleert tot de streefwaarde, dan hoeft u in de toekomst niet nog
+een keer te isoleren en wordt de Standaard voor woningisolatie ruimschoots gerealiseerd. Door het voldoen aan de Standaard zorgt u ervoor
+dat uw woning op de toekomst is voorbereid.
+
+
+Op basis van de energetische kenmerken van uw woning is een aantal mogelijke maatregelen bepaald. Hiermee kunt u de energieprestatie
+van uw woning verbeteren. Let op: het gaat om mogelijk kosteneffectieve maatregelen. Of deze maatregelen daadwerkelijk verantwoord
+toegepast kunnen worden - uit oogpunt van bijvoorbeeld binnenklimaat, comfort, gezondheid, technische haalbaarheid en kosteneffectiviteit -
+is afhankelijk van de specifieke eigenschappen van uw woning. Een energiedeskundige kan u hier over adviseren.
+
+
+Vaak is ook veel energiewinst te halen door het correct inregelen, gebruiken en onderhouden van uw woning en de installaties. Het zorgt,
+behalve voor een lager energiegebruik, ook voor een gezonder en comfortabeler binnenklimaat.
+
+
+Isolatie
+
+
+ 1 Gevels                               Hieronder ziet u de oppervlakken en RC-waarden (isolatiewaarden) van de gevels van uw woning.
+                                        Hoe hoger de RC-waarde, hoe beter de isolatie. Niet of slecht geïsoleerde delen zijn rood gemarkeerd.
+
+
+   Noord                                                 Zuid
+   Opp.      0               6   RC                      Opp.      0              6   RC
+
+   11,2 m²                       4,70                    21,4 m²                      4,70
+   6,1 m²                        4,70
+
+
+                                         Toelichting
+                                         Buitenmuren worden aangeduid als gevels. De isolatiewaarde van gevels wordt uitgedrukt in een
+                                         RC-waarde. Hoe hoger de RC-waarde, hoe beter de isolatiewaarde. Een hogere isolatiewaarde houdt
+                                         de warmte beter in de woning in de koude maanden. Hoe groter de oppervlakte van een gevel,
+                                         hoe meer effect een goede of slechte isolatiewaarde zal hebben op de energetische kwaliteit van
+                                         uw woning.
+
+
+                                         Dankzij goede gevelisolatie verliest uw woning minder warmte. U bespaart op uw energiekosten
+                                         en vermindert de uitstoot van het broeikasgas CO2. Ook zorgt goede gevelisolatie voor een
+                                         verhoging van het comfort in de woning. De woning is gelijkmatiger warm doordat de muren minder
+                                         kou afgeven.
+
+
+                                         In nieuwere woningen is een goede isolatie standaard aanwezig. Bij oudere woningen is er vaak
+                                         sprake van een niet-geïsoleerde spouwmuur. In dat geval is spouwmuurisolatie een, in verhouding,
+                                         goedkope manier om de gevel te isoleren. Met het na-isoleren van de spouw wordt een matige
+                                         isolatiewaarde gehaald (RC = 1,0 tot 1,7 m2K/W). Er zijn ook andere mogelijkheden. Denk aan
+                                         isolatie aan de binnenkant of de buitenkant van de gevel. Deze geven een betere isolatiewaarde,
+                                         maar zijn ook duurder.
+
+
+                                         Hoogstwaarschijnlijk worden gevels maar één keer na-geïsoleerd. Het is dan verstandig
+                                         om de gevels direct goed te isoleren. Isoleer daarom meteen richting de streefwaarde
+                                         (RC 6,0 m2K/W).
+Energielabel woningen                                                                                                                    4 van 8
+
+
+ 3 Daken                             Hieronder ziet u de oppervlakken en RC-waarden (isolatiewaarden) van de daken van uw woning.
+                                     Hoe hoger de RC-waarde, hoe beter de isolatie. Niet of slecht geïsoleerde delen zijn rood gemarkeerd.
+
+
+   Noord                                              Zuid                                                Horizontaal
+   Opp.      0           8    RC                      Opp.      0              8    RC                    Opp.      0               8    RC
+
+   31,8 m²                    6,30                    30,2 m²                       6,30                  19,7 m²                        6,30
+
+
+                                      Toelichting
+                                      Daken kunnen bestaan uit horizontale of hellende delen. De bovenkant van een dakkapel wordt
+                                      beschouwd als een dak. De isolatiewaarde van daken wordt uitgedrukt in een RC-waarde.
+                                      Hoe hoger de RC-waarde, hoe beter de isolatiewaarde. Een hogere isolatiewaarde houdt de
+                                      warmte beter in de woning in de winter. Met dakisolatie blijft vooral de bovenverdieping ook in de
+                                      zomer koeler. Hoe groter het dak, hoe meer effect een goede of slechte isolatiewaarde heeft
+                                      op de energetische kwaliteit van uw woning.
+
+
+                                      Dankzij goede dakisolatie verliest uw woning minder warmte. U bespaart op uw energiekosten
+                                      en vermindert de uitstoot van het broeikasgas CO2. Afhankelijk van het type dak, schuin dak met
+                                      pannen of een plat dak, is isoleren aan de binnenkant of buitenkant mogelijk. Het juiste gebruik
+                                      van dampremmende folie is daarbij een middel om vocht en houtrot in het dak te voorkomen.
+
+
+                                      Als uw dakbedekking aan vernieuwing toe is of u wilt het dak na-isoleren, isoleer dan meteen
+                                      richting de streefwaarde (RC 8,0 m2K/W).
+
+
+
+
+ 4 Vloeren                           Hieronder ziet u de oppervlakken en RC-waarden (isolatiewaarden) van de vloeren van uw woning.
+                                     Hoe hoger de RC-waarde, hoe beter de isolatie. Niet of slecht geïsoleerde delen zijn rood gemarkeerd.
+
+
+   Vloeren
+   Opp.      0          3,5   RC
+
+   64,2 m²                    3,70
+
+
+                                      Toelichting
+                                      Hiermee worden vloeren bedoeld die grenzen aan de grond of buitenlucht. Dit zijn begane
+                                      grondvloeren met of zonder kruipruimte eronder, maar ook vloeren boven een onderdoorgang.
+                                      De isolatiewaarde van vloeren wordt uitgedrukt in een RC-waarde. Hoe hoger de RC-waarde,
+                                      hoe beter de isolatiewaarde. Een hogere isolatiewaarde houdt de warmte beter in de woning in de
+                                      koude maanden. Hoe groter de oppervlakte van een vloer, hoe meer effect een goede of slechte
+                                      isolatiewaarde zal hebben op de energetische kwaliteit van uw woning.
+
+
+                                      Door goede vloerisolatie verliest uw woning minder warmte. U bespaart op uw energiekosten en
+                                      vermindert de uitstoot van het broeikasgas CO2. Goede vloerisolatie verhoogt het comfort in de
+                                      woning. De woning houdt de warmte beter vast en de vloer voelt minder koud aan. Het gaat hierbij
+                                      niet alleen om begane grondvloeren, maar ook om vloeren boven een onderdoorgang.
+
+
+                                      Hebt u een vloer boven een kelder, een kruipruimte met een vrije ruimte onder de balken van
+                                      minimaal 35 cm, of een vloer boven een onderdoorgang, dan kan de onderzijde van de vloer
+                                      geïsoleerd worden. Bij de kruipruimte is het dan belangrijk om de bodem af te dekken met een
+                                      kunststoffolie om te voorkomen dat isolatiemateriaal vochtig wordt. Hebt u vloeren op de volle
+                                      grond of boven een lage kruipruimte, dan kan de bodem of de bovenzijde van de begane
+                                      grondvloer geïsoleerd worden.
+Energielabel woningen                                                                                                                  5 van 8
+
+
+ 4 Vloeren (vervolg)                Als u uw vloer gaat na-isoleren, is het verstandig om meteen goed te isoleren.
+                                    Isoleer daarom meteen richting de streefwaarde (RC 3,5 m2K/W).
+
+
+
+
+ 5 Ramen                           Hieronder ziet u de oppervlakken en UW-waarden (isolatiewaarden) van de ramen van uw woning.
+                                   Hoe lager de UW-waarde, hoe beter de isolatie. Niet of slecht geïsoleerde delen zijn rood gemarkeerd.
+
+
+   Noord                                            Zuid
+   Opp.     0           7   UW                      Opp.      0              7   UW
+
+   5,9 m²                   1,34                    12,5 m²                      1,34
+   2,6 m²                   1,34
+   2,6 m²                   1,34
+
+
+                                    Toelichting
+                                    Dit betreffen alle ramen aan de buitenzijde van uw woning. Ook een buitendeur met veel glas
+                                    (denk aan een balkondeur of keukendeur) telt voor het energielabel als een raam. Bij het bepalen
+                                    van de isolatiewaarde van ramen, wordt gekeken naar de combinatie van het glas met het kozijn.
+                                    De isolatiewaarde van ramen wordt uitgedrukt in de UW-waarde. Hoe lager de UW-waarde, hoe beter
+                                    de isolatie is. HR++-glas en triple-glas hebben een lage UW-waarde en houden de warmte beter in
+                                    de woning dan enkel glas en gewoon dubbel glas. Hoe groter de oppervlakte van de ramen in uw
+                                    woning, hoe meer effect een goede of slechte isolatiewaarde heeft op de energetische kwaliteit van
+                                    uw woning.
+
+
+                                    Door goed isolerend glas, zoals HR++-glas, vacuümglas of triple (3-voudig) glas, verliest uw woning
+                                    minder warmte. U bespaart op uw energiekosten en vermindert de uitstoot van het broeikasgas
+                                    CO2. Ook verhoogt goed isolerend glas het comfort in de woning. U heeft geen tocht en kou bij de
+                                    ramen en geen condens aan de binnenkant van het raam. Door goed isolerend glas hoort u ook
+                                    minder geluid van buiten.
+
+
+                                    Als uw kozijnen aan vervanging toe zijn, is dat het ideale moment om de kozijnen en het
+                                    glas in één keer goed te isoleren. Kies dan meteen voor een oplossing die richting de
+                                    streefwaarde gaat (UW van 1,0 W/m2K).
+
+
+
+
+ 6 Buitendeuren                    Hieronder ziet u de oppervlakken en Ud-waarden (isolatiewaarden) van de buitendeuren van
+                                   uw woning. Hoe lager de Ud-waarde, hoe beter de isolatie. Niet of slecht geïsoleerde delen zijn rood
+                                   gemarkeerd.
+
+
+   Noord
+   Opp.     0           4   Ud
+
+   4,3 m²                   1,65
+
+
+                                    Toelichting
+                                    Een buitendeur met weinig glas (zoals veel voordeuren) telt in het energielabel als een buitendeur.
+                                    Deuren met veel glas tellen voor het energielabel als een raam. Bij het bepalen van de isolatie-
+                                    waarde van buitendeuren, wordt gekeken naar de combinatie van de deur met het kozijn.
+                                    De isolatiewaarde van buitendeuren wordt uitgedrukt in de Ud-waarde. Hoe lager de Ud-waarde,
+                                    hoe beter de isolatie. Een geïsoleerde buitendeur houdt de warmte beter in de woning.
+Energielabel woningen                                                                                                           6 van 8
+
+
+ 6 Buitendeuren (vervolg)    Met goed isolerende deuren verliest uw woning minder warmte. U bespaart op uw energiekosten
+                             en vermindert de uitstoot van het broeikasgas CO2. Ook verhoogt een goed geïsoleerde deur het
+                             comfort in de woning. Belangrijk bij de plaatsing van een deur is dat deze in een geïsoleerd kozijn
+                             wordt gezet. Rondom de deur moet aan vier zijden een goede luchtdichting worden aangebracht.
+
+
+                             Als u een buitendeur gaat vervangen, kies dan meteen voor een geïsoleerde buitendeur die
+                             richting de streefwaarde gaat (Ud van 1,4 W/m2K).
+
+
+
+
+ LET OP!                    Besteed speciale aandacht aan kierdichting en ventilatie bij het isoleren van
+                            een woning
+                            Om de overstap te kunnen maken naar duurzame warmtevoorzieningen, zoals bijvoorbeeld een
+                            warmtepomp, moet uw woning niet alleen goed geïsoleerd zijn, maar moet ook de luchtdichtheid
+                            van de woning in orde zijn. De luchtdichtheid wordt bepaald door kieren en naden waardoor warmte
+                            verloren gaat. Deze kieren en naden kunnen zitten bij de aansluiting van de ramen op de gevel, of bij
+                            de aansluiting van het dak op de gevel. Bij het verbeteren van de isolatie van vloeren, gevels, daken,
+                            ramen, deuren en/of panelen, is het belangrijk dat al deze onderdelen goed luchtdicht op elkaar
+                            aansluiten. Dit voorkomt warmteverlies en onaangename tocht. Door koude tocht zetten mensen de
+                            verwarming hoger en dat kost energie.
+
+
+                            Als u kieren en naden dicht, komt er geen lucht van buiten meer de woning in. Dat voorkomt tocht.
+                            Maar de woning moet wel (op een gecontroleerde manier) frisse lucht binnen krijgen. Ventilatie is
+                            belangrijk voor de gezondheid en voorkomt vochtproblemen. Besteed bij de verbetering van de isolatie
+                            van de woning – en met name bij het dichten van naden en kieren – ook aandacht aan voldoende
+                            ventilatie. Laat u hierover informeren door een expert. Denk bijvoorbeeld aan het plaatsen van
+                            winddrukgeregelde roosters of een ventilatie-unit met warmteterugwinning.
+Energielabel woningen                                                                                                            7 van 8
+
+
+Installaties
+
+
+ 7 Verwarming               In de tabel hieronder staat welke toestellen in uw woning aanwezig zijn en welk gedeelte van de
+                            woning door die toestellen verwarmd wordt. In de meeste woningen is sprake van één verwarmings-
+                            toestel. Soms zijn er verschillende toestellen voor de verwarming van de woning.
+
+                             Verwarmingstoestellen                                                                 Aangesloten opp.
+
+                             Warmtepomp                                                                            99,7 m2
+                             Elektrische verwarming
+
+
+
+ 8 Warm water               In de tabel hieronder is weergegeven welke warmwatertoestellen in uw woning aanwezig zijn.
+                            De meeste woningen hebben één warmwatertoestel. Soms is er sprake van meerdere verschillende
+                            toestellen die zorgen voor het warm water.
+
+
+                             Warmwatertoestellen                                  Warmtepomp
+
+                                                                                  Kokendwater kraan
+
+                             Douche met warmteterugwinning                        Niet aanwezig
+
+
+
+                            Verbeteradvies: warmteterugwinning uit douchewater
+                            Met een douche-wtw gebruikt u de warmte van wegstromend douchewater om het koude water voor
+                            de douche alvast een beetje op te warmen. Het voorverwarmde water gaat naar de mengkraan van de
+                            douche en/of combitoestel. Hiermee bespaart u energie van uw warmwaterinstallatie. Om de warmte uit
+                            het douchewater terug te kunnen winnen, wordt in de afvoerpijp, douchebak of vloer van de inloop-
+                            douche een warmtewisselaar geplaatst.
+
+
+
+                            Verbeteradvies: zonneboiler voor warm water en/of verwarming
+                            Zonnecollectoren zetten de energie van de zon om in warm water. Een zonneboilerinstallatie bestaat
+                            uit verschillende onderdelen: zonnecollectoren op het dak, en een boilervat waarin het door de zon
+                            verwarmde water wordt opgeslagen. Een zonneboiler kan op jaarbasis gemiddeld de helft van het bad-
+   Meer informatie over
+                            en douchewater verwarmen. Een zonneboiler levert in de zomer bijna al het warme water. In de winter
+   energiebesparende
+                            lukt dit niet en zorgt de cv-ketel, biomassaketel of warmtepomp voor warm water. Als de installatie groot
+   maatregelen vindt u op
+                            genoeg is, kan het systeem ook worden aangesloten op het verwarmingssysteem. De opgevangen
+   www.verbeterjehuis.nl
+                            zonnewarmte kan dan ook worden gebruikt voor het (gedeeltelijk) verwarmen van de woning.
+
+
+
+
+ 10 Ventilatie              Ventilatie is belangrijk voor frisse lucht in de woning en de gezondheid van bewoners. In het overzicht
+                            hieronder staat wat voor ventilatiesysteem uw woning heeft. In oudere woningen is vaak geen
+                            mechanisch ventilatiesysteem aanwezig: ventileren gebeurt alleen door roosters boven het raam, of
+                            door het openen van (klep)ramen. Bij woningen gebouwd na 1975, zorgt vaak een ventilator voor het
+                            toe- en/of afvoeren van frisse lucht. Deze ventilator kan een energiezuinige gelijkstroomventilator zijn, of
+                            een minder zuinige wisselstroomventilator. In het overzicht ziet u ook of de warmte uit de ventilatielucht
+                            teruggewonnen wordt en wordt hergebruikt in de woning.
+
+                                                                              Warmte-             Wisselstroom-        Aangesloten
+                             Type ventilatiesysteem                           terugwinning        ventilator           oppervlakte
+
+                             Natuurlijke toevoer met mechanische              Nee                 Nee                  99,7 m2
+                             afzuiging
+Energielabel woningen                                                                                                                   8 van 8
+
+
+ 11 Koeling                           Heeft uw woning een mechanisch koelsysteem, dan staat dit vermeld in het overzicht hieronder.
+                                      Het nadeel van woningen met koelsystemen is dat deze systemen energie gebruiken (en ook een
+                                      slechter energielabel hebben dan woningen zonder koelsysteem). In plaats van het aanbrengen van
+                                      een koelsysteem, kunt u beter maatregelen treffen om de zomerse zonnewarmte buiten te houden.
+   Meer informatie over               Bijvoorbeeld door het aanbrengen van buitenzonwering, overstekken of zonwerende beglazing.
+   energiebesparende
+                                        Koeltoestellen                                                        Aangesloten oppervlakte
+   maatregelen vindt u op
+   www.verbeterjehuis.nl                Compressiekoeling                                                     99,7 m2
+
+
+
+
+ 12 Zonnepanelen                      In het overzicht hieronder staat de omvang van het zonnepanelensysteem van uw woning aangegeven
+                                      (uitgedrukt in de oppervlakte en het totale wattpiekvermogen). Hoe groter het systeem, des te meer
+                                      elektriciteit ermee opgewekt kan worden. Daarbij is de oriëntatie van de panelen van grote invloed: hoe
+                                      meer direct zonlicht op de panelen valt, hoe hoger de opbrengst.
+
+                                        Wattpiekvermogen                           Oriëntatie                             Oppervlakte
+
+                                        4050 Wp                                    Zuid                                   18 m2
+
+
+
+
+Twijfels of klachten?
+Bent u eigenaar van de woning? Neem dan eerst contact op met de energieadviseur als u het niet eens bent met uw energielabel.
+U kunt dan uitleggen waarom u het niet eens bent met uw energielabel. Mogelijk krijgt u een nieuwe opname of wijziging in de bestaande
+opname. Komt u er met uw energieadviseur niet uit? Neem dan contact op met de certificaathouder die het label geregistreerd heeft.
+De naam van de certificaathouder staat op de eerste pagina van dit energielabel.
+Vindt u dat de certificaathouder uw melding niet goed afhandelt? Neem dan contact op met de certificerende instelling.
+Deze instelling controleert de certificaathouder. De naam vindt u ook op de eerste pagina van dit energielabel.
+
+
+Bent u huurder? Twijfelt u als huurder of het geregistreerde energielabel wel klopt? Neem dan contact op met de verhuurder.
+De verhuurder kan dan contact opnemen met de certificaathouder om de melding te behandelen. Vindt u dat uw verhuurder uw melding
+niet goed behandelt en heeft het energielabel invloed op uw huurprijs? Dan kunt u de Huurcommissie inschakelen.
+
+
+
+Meer informatie
+Dit energielabel is afgegeven door Rijksdienst voor Ondernemend Nederland. Dit energielabel kunt u altijd verifiëren op
+www.zoekjeenergielabel.nl, www.ep-online.nl of in MijnOverheid. De genoemde besparingsmogelijkheden zijn maatregelen die op dit moment
+in de meeste gevallen kosteneffectief zijn, of dit binnen de geldigheidsduur van het energielabel kunnen worden.
+Op www.verbeterjehuis.nl kunt u een indicatie krijgen hoeveel bovenstaande maatregelen kosten en wat zij u opleveren aan energiebesparing.
+Of de genoemde maatregelen daadwerkelijk verantwoord toegepast kunnen worden uit oogpunt van bijvoorbeeld comfort, gezondheid, kosten
+e.d., is afhankelijk van de huidige specifieke eigenschappen van uw woning. Er kunnen daarom geen rechten worden ontleend aan deze
+informatie. U wordt altijd geadviseerd om hiervoor professioneel advies in te winnen.
+
+
+Dit document is digitaal ondertekend. U kunt de echtheid van het document controleren. Hoe dat in zijn werk gaat leest u op
+www.ep-online.nl/ControlerenEchtheid.

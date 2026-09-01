@@ -1,0 +1,47 @@
+{
+  "active": "production",
+  "workers": {
+    "production": {
+      "cloudflareName": "calqtool-worker-production",
+      "apiBase": "https://www.calqtool.com/api/",
+      "routes": ["www.calqtool.com/api/*"],
+      "health": "https://www.calqtool.com/api/health",
+      "status": "live",
+      "notes": "Hoofd-API voor de app. Gebruik deze URL in frontend en .env."
+    },
+    "api": {
+      "cloudflareName": "calqtool-api",
+      "apiBase": "https://api.calqtool.com/",
+      "routes": ["api.calqtool.com"],
+      "status": "live",
+      "notes": "Aparte worker. Vereist authenticatie op alle routes. Niet de standaard app-API."
+    },
+    "pagesApp": {
+      "cloudflareName": "calqtool-app",
+      "type": "pages",
+      "url": "https://calqtool-app.pages.dev/",
+      "github": "sluitmijnbv/calqtool-app",
+      "status": "live",
+      "notes": "Frontend (deze repo), gekoppeld aan GitHub."
+    },
+    "pagesLegacy": {
+      "cloudflareName": "calqtool-pages",
+      "type": "pages",
+      "url": "https://calqtool-pages.pages.dev/",
+      "status": "legacy",
+      "notes": "Oude Pages-deploy, geen Git-koppeling."
+    },
+    "deprecated": {
+      "cloudflareName": "calqtool-worker",
+      "apiBase": "https://calqtool-worker.mdvlijter.workers.dev/",
+      "status": "deprecated",
+      "notes": "Oude dev-worker. Niet meer gebruiken."
+    },
+    "broken": {
+      "cloudflareName": "calqtool-worker-production (workers.dev)",
+      "apiBase": "https://calqtool-worker-production.mdvlijter.workers.dev/",
+      "status": "broken",
+      "notes": "workers.dev-subdomein niet actief. Geeft error 1042. Gebruik www.calqtool.com/api/."
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "fileName": "Ventilatieberekening .pdf",
+  "relativePath": "Ventilatieberekening .pdf",
+  "slug": "ventilatieberekening",
+  "pages": 2,
+  "categories": [
+    "plattegrond",
+    "gevel",
+    "installatie"
+  ],
+  "floors": [],
+  "scale": null,
+  "areasFound": [],
+  "title": "ventilatieberekening.xlsx",
+  "textLength": 7122,
+  "textPreview": "Ventilatieberekening Behoort bij beschikking van Burgemeester en Wethouders van Leiden Projektnaam: Woningen Herenstraat 64 Leiden Z/25/3812047 werknummer 2301-2024 datum 5 februari 2025 gewijzigd Uitgangspunt: NEN 8087 Ventileren volgens bouwbesluit 2012 Verblijfsgebied: > 0,9 dm3/s per m2 vloeroppervlak met een minimum van 7 dm3/s Verblijfsruimte: > 0,7 dm3/s per m2 vloeroppervlak met een minimum van 7 dm3/s Verblijfsgeb. met opstel pl kooktoestel > 21 dm3/s (opstelplaats max 15kW) Gem. verkee",
+  "paths": {
+    "pdf": "projects/herenstraat-64/extracted/pdfs/Ventilatieberekening .pdf",
+    "text": "projects/herenstraat-64/extracted/texts/ventilatieberekening.txt",
+    "summary": "projects/herenstraat-64/extracted/summaries/ventilatieberekening.json"
+  }
+}

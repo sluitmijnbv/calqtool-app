@@ -1,0 +1,120 @@
+{
+  "generatedAt": "2026-09-01T14:45:00Z",
+  "project": {
+    "name": "Transformatie schoolgebouw Herenstraat 64 Leiden",
+    "address": "Herenstraat 64, 2313 AM Leiden",
+    "permitRef": "Z/25/3812047",
+    "architect": "Ballieux Organic architects",
+    "structuralEngineer": "Raadgevend Ingenieursbureau Van Dijke BV (224873 D-101)",
+    "client": "Nederlandse Bouwgroep",
+    "workNumber": "2301-2024"
+  },
+  "program": {
+    "description": "3 eengezinswoningen (tussen/hoek, BG+1e) + 2 appartementen (hoek, BG en 1e)",
+    "totalUnits": 5,
+    "totalFloorAreaM2": 482,
+    "units": [
+      {
+        "id": "A",
+        "label": "Woning A",
+        "type": "Hoekwoning (vierkant, BG+1e)",
+        "floorAreaM2": 99,
+        "energyLabel": "A",
+        "pvPanels": 9
+      },
+      {
+        "id": "B",
+        "label": "Woning B",
+        "type": "Tussenwoning (vierkant, BG+1e)",
+        "floorAreaM2": 100,
+        "energyLabel": "A",
+        "pvPanels": 9
+      },
+      {
+        "id": "C",
+        "label": "Woning C",
+        "type": "Tussenwoning (vierkant, BG+1e)",
+        "floorAreaM2": 100,
+        "energyLabel": "A",
+        "pvPanels": 9
+      },
+      {
+        "id": "D",
+        "label": "Woning D",
+        "type": "Hoekwoning onderste bouwlaag (langwerpig)",
+        "floorAreaM2": 88,
+        "energyLabel": "A",
+        "pvPanels": 9
+      },
+      {
+        "id": "E",
+        "label": "Woning E",
+        "type": "Hoekwoning onder dak (langwerpig)",
+        "floorAreaM2": 95,
+        "energyLabel": "A",
+        "pvPanels": 9
+      }
+    ]
+  },
+  "buildingPhysics": {
+    "source": "Uitgangspuntendocument NTA 8800 berekening (22-05-2025)",
+    "beng": {
+      "beng1_kWh_m2": "89,14 / 73,14 / 73,92",
+      "beng2_kWh_m2": 30,
+      "beng3_percent": 50
+    },
+    "insulation": {
+      "rcFloor": 3.7,
+      "rcWall": 4.7,
+      "rcRoof": 6.3,
+      "uGlass": 1.0,
+      "uFrame": 1.65,
+      "uDoor": 1.65
+    },
+    "constructionType": "Massieve vloer met lichte wanden (HSB)"
+  },
+  "installations": {
+    "heating": "Lucht/lucht warmtepomp 4,5-6 kW + vloerverwarming + naregeling per ruimte",
+    "cooling": "Vloerkoeling met naregeling",
+    "dhw": "Warmtepompboiler Vaillant aroSTOR VWL B 150/5 (150L) + Quooker Combi",
+    "ventilation": "Mechanische afvoer (Duco Silent) + natuurlijke toevoer, CO2-sensoren",
+    "pv": "9 panelen per woning, min. 225 Wp/m², Solarge SOLO (lichtgewicht)",
+    "storage": "Zoutbatterij per woning (duurzaamheidsnotitie)",
+    "grid": "1 collectieve netaansluiting No-Break, geen teruglevering"
+  },
+  "sustainability": {
+    "source": "Aanvulling notitie duurzaamheid",
+    "highlights": [
+      "Hergebruik uitkomend hout in wanden/vloeren",
+      "Sloopbeton als betongranulaat voor nieuwe vloeren",
+      "Behoud bestaande hoofddraagconstructie en houten buitenkozijnen",
+      "Schapenwol isolatie in HSB-wanden",
+      "Ecologische PIR voor vloer en dak",
+      "Vegetatiedaken op aanbouw en fietsenstalling",
+      "Hemelwateropvang voor bewatering en infiltratie"
+    ]
+  },
+  "structural": {
+    "source": "224873 D-101 constructieberekening (25-03-2025)",
+    "scope": "Fundering, tussenvloeren, stalen profielen (HE160A/B, L-profielen), dakconstructie",
+    "approvedByMunicipality": "12-08-2025"
+  },
+  "documents": {
+    "totalPdfs": 34,
+    "totalPages": 127,
+    "keyDrawings": [
+      "Plattegrond begane grond bestaand/nieuw",
+      "Plattegrond verdieping nieuw",
+      "Gevels bestaand/nieuw",
+      "Spantdakconstructie",
+      "Situatie bestaand en nieuw"
+    ],
+    "keyReports": [
+      "NTA 8800 uitgangspunten",
+      "Ventilatieberekening",
+      "Daglichtberekening",
+      "Energielabel woning A-E"
+    ]
+  },
+  "extractedIndex": "projects/herenstraat-64/extracted/index.json"
+}

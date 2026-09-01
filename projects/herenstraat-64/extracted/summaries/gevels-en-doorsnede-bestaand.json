@@ -1,0 +1,21 @@
+{
+  "fileName": "Gevels en doorsnede bestaand.pdf",
+  "relativePath": "Gevels en doorsnede bestaand.pdf",
+  "slug": "gevels-en-doorsnede-bestaand",
+  "pages": 1,
+  "categories": [
+    "doorsnede",
+    "gevel"
+  ],
+  "floors": [],
+  "scale": null,
+  "areasFound": [],
+  "title": "Herenstraat 64-BO-13",
+  "textLength": 1098,
+  "textPreview": "Doorsnede A-A Doorsnede B-B Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 Gevelaanzicht Herenstraat maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+  "paths": {
+    "pdf": "projects/herenstraat-64/extracted/pdfs/Gevels en doorsnede bestaand.pdf",
+    "text": "projects/herenstraat-64/extracted/texts/gevels-en-doorsnede-bestaand.txt",
+    "summary": "projects/herenstraat-64/extracted/summaries/gevels-en-doorsnede-bestaand.json"
+  }
+}

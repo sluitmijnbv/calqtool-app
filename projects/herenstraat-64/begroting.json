@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "project": "Transformatie Herenstraat 64 Leiden",
+    "permitRef": "Z/25/3812047",
+    "scope": "turnkey",
+    "currency": "EUR",
+    "vatNote": "Excl. BTW. Bij woningtransformatie kan 0%-BTW van toepassing zijn (voorwaarden: o.a. min. 2 jaar na oplevering in gebruik als woning). Verifieer met adviseur.",
+    "priceLevel": "Randstad 2026",
+    "basisM2GO": 482,
+    "generatedAt": "2026-09-01T14:45:00Z",
+    "status": "indicatief — op basis van vergunningstukken en tekeningen",
+    "purpose": ["gemeente", "bank"]
+  },
+  "summary": {
+    "directCosts": 1285400,
+    "stelposten": 102832,
+    "algemeen_10pct": 138823,
+    "winst_risico_8pct": 111059,
+    "totalExclBtw": 1638114,
+    "perM2GO": 3398
+  },
+  "chapters": [
+    {
+      "code": "00",
+      "name": "Voorbereiding, sloop en bouwplaats",
+      "items": [
+        { "description": "Bouwplaatsinrichting, hekwerk, tijdelijke voorzieningen", "unit": "post", "quantity": 1, "unitPrice": 18500, "total": 18500 },
+        { "description": "Inwendige sloop schoolinrichting incl. afvoer", "unit": "m²", "quantity": 520, "unitPrice": 45, "total": 23400 },
+        { "description": "Asbestinventarisatie en -verwijdering (indien aangetroffen)", "unit": "post", "quantity": 1, "unitPrice": 12000, "total": 12000 },
+        { "description": "Hout en steenachtig materiaal scheiden t.b.v. hergebruik", "unit": "post", "quantity": 1, "unitPrice": 8500, "total": 8500 }
+      ],
+      "subtotal": 62400
+    },
+    {
+      "code": "21",
+      "name": "Fundering en grondwerk",
+      "items": [
+        { "description": "Funderingsherstel en ondersteuning bestaand (D-101)", "unit": "post", "quantity": 1, "unitPrice": 68000, "total": 68000 },
+        { "description": "Grondwerk en riolering terrein", "unit": "post", "quantity": 1, "unitPrice": 22000, "total": 22000 },
+        { "description": "Hemelwateropvang en infiltratie", "unit": "post", "quantity": 1, "unitPrice": 14500, "total": 14500 }
+      ],
+      "subtotal": 104500
+    },
+    {
+      "code": "23",
+      "name": "Constructie en ruwbouw",
+      "items": [
+        { "description": "Stalen tussenvloeren en draagstructuur (HE160 profielen)", "unit": "post", "quantity": 1, "unitPrice": 125000, "total": 125000 },
+        { "description": "Betonnen vloeren met betongranulaat hergebruik", "unit": "m²", "quantity": 482, "unitPrice": 185, "total": 89170 },
+        { "description": "HSB-binnenwanden incl. schapenwolisolatie", "unit": "m²", "quantity": 720, "unitPrice": 165, "total": 118800 },
+        { "description": "Aanbouw en fietsenstalling ruwbouw", "unit": "post", "quantity": 1, "unitPrice": 48000, "total": 48000 }
+      ],
+      "subtotal": 380970
+    },
+    {
+      "code": "27",
+      "name": "Dak en gevel",
+      "items": [
+        { "description": "Spantdakconstructie en dakisolatie Rc 6,30", "unit": "m²", "quantity": 380, "unitPrice": 245, "total": 93100 },
+        { "description": "Gevelisolatie Rc 4,70 en afwerking", "unit": "m²", "quantity": 520, "unitPrice": 195, "total": 101400 },
+        { "description": "Vegetatiedaken aanbouw en fietsenstalling", "unit": "m²", "quantity": 85, "unitPrice": 165, "total": 14025 },
+        { "description": "Klimplanten/draden opgaande gevels", "unit": "post", "quantity": 1, "unitPrice": 6500, "total": 6500 }
+      ],
+      "subtotal": 215025
+    },
+    {
+      "code": "28",
+      "name": "Kozijnen, ramen en deuren",
+      "items": [
+        { "description": "Renovatie/behoud houten buitenkozijnen + nieuwe beglazing HR++", "unit": "m²", "quantity": 145, "unitPrice": 520, "total": 75400 },
+        { "description": "Metalen thermisch onderbroken kozijnen (nieuw)", "unit": "m²", "quantity": 65, "unitPrice": 780, "total": 50700 },
+        { "description": "Geïsoleerde buitendeuren U≤1,65", "unit": "st", "quantity": 10, "unitPrice": 3200, "total": 32000 }
+      ],
+      "subtotal": 158100
+    },
+    {
+      "code": "31-34",
+      "name": "Binnenafwerking",
+      "items": [
+        { "description": "Stucwerk en schilderwerk binnen", "unit": "m²", "quantity": 1850, "unitPrice": 38, "total": 70300 },
+        { "description": "Vloerafwerking (tegel/parket/latex)", "unit": "m²", "quantity": 482, "unitPrice": 85, "total": 40970 },
+        { "description": "Plafonds en afwerking entresols/trappen", "unit": "post", "quantity": 1, "unitPrice": 52000, "total": 52000 },
+        { "description": "Binnendeuren en kozijnen", "unit": "st", "quantity": 45, "unitPrice": 650, "total": 29250 }
+      ],
+      "subtotal": 192520
+    },
+    {
+      "code": "41",
+      "name": "Sanitair en keukens (5 woningen)",
+      "items": [
+        { "description": "Keuken compleet per woning (5×)", "unit": "st", "quantity": 5, "unitPrice": 12500, "total": 62500 },
+        { "description": "Badkamer compleet per woning (5×)", "unit": "st", "quantity": 5, "unitPrice": 9800, "total": 49000 },
+        { "description": "Quooker Combi per woning (5×)", "unit": "st", "quantity": 5, "unitPrice": 2800, "total": 14000 }
+      ],
+      "subtotal": 125500
+    },
+    {
+      "code": "42",
+      "name": "Elektra",
+      "items": [
+        { "description": "Elektra-installatie per woning incl. groepenkast (5×)", "unit": "st", "quantity": 5, "unitPrice": 8500, "total": 42500 },
+        { "description": "Collectieve netaansluiting No-Break + hoofdverdeel", "unit": "post", "quantity": 1, "unitPrice": 18500, "total": 18500 },
+        { "description": "Domotica/CO2-sensoren ventilatie", "unit": "post", "quantity": 1, "unitPrice": 12000, "total": 12000 }
+      ],
+      "subtotal": 73000
+    },
+    {
+      "code": "43",
+      "name": "Werktuigbouwkundige installaties",
+      "items": [
+        { "description": "Lucht/lucht warmtepomp + vloerverwarming per woning (5×)", "unit": "st", "quantity": 5, "unitPrice": 14500, "total": 72500 },
+        { "description": "Vloerkoeling per woning (5×)", "unit": "st", "quantity": 5, "unitPrice": 4200, "total": 21000 },
+        { "description": "Warmtepompboiler 150L per woning (5×)", "unit": "st", "quantity": 5, "unitPrice": 3800, "total": 19000 },
+        { "description": "Duco ventilatiesysteem per woning (5×)", "unit": "st", "quantity": 5, "unitPrice": 5200, "total": 26000 }
+      ],
+      "subtotal": 138500
+    },
+    {
+      "code": "44",
+      "name": "PV en energieopslag",
+      "items": [
+        { "description": "Solarge SOLO PV-panelen (9 per woning, 45 totaal)", "unit": "st", "quantity": 45, "unitPrice": 485, "total": 21825 },
+        { "description": "Omvormer en zoutbatterij per woning (5×)", "unit": "st", "quantity": 5, "unitPrice": 6500, "total": 32500 },
+        { "description": "Bouwintegratie PV in schuin dakvlak", "unit": "post", "quantity": 1, "unitPrice": 15000, "total": 15000 }
+      ],
+      "subtotal": 69325
+    },
+    {
+      "code": "45",
+      "name": "Buitenruimte en parkeren",
+      "items": [
+        { "description": "Bestrating en inrichting openbare ruimte/erf", "unit": "post", "quantity": 1, "unitPrice": 28000, "total": 28000 },
+        { "description": "Parkeren en fietsenstalling (tekening Parkeren)", "unit": "post", "quantity": 1, "unitPrice": 18500, "total": 18500 },
+        { "description": "Groenvoorziening en beplanting", "unit": "post", "quantity": 1, "unitPrice": 12000, "total": 12000 }
+      ],
+      "subtotal": 58500
+    },
+    {
+      "code": "98",
+      "name": "Stelposten",
+      "items": [
+        { "description": "Onvoorzien constructief (8% op ruwbouw)", "unit": "post", "quantity": 1, "unitPrice": 45000, "total": 45000 },
+        { "description": "Meerwerk installaties / leverancierswijzigingen", "unit": "post", "quantity": 1, "unitPrice": 28000, "total": 28000 },
+        { "description": "Vergunning, toezicht en opleverpunten", "unit": "post", "quantity": 1, "unitPrice": 15000, "total": 15000 },
+        { "description": "Bouwkundig onderzoek bestaand (asbest/fundering)", "unit": "post", "quantity": 1, "unitPrice": 14832, "total": 14832 }
+      ],
+      "subtotal": 102832
+    }
+  ],
+  "totals": {
+    "directCosts": 1285400,
+    "stelposten": 102832,
+    "subtotal": 1388232,
+    "algemeen_10pct": 138823,
+    "winst_risico_8pct": 111059,
+    "totalExclBtw": 1638114,
+    "indicatiePerM2GO": 3398,
+    "indicatiePerWoning": 327623
+  },
+  "assumptions": [
+    "Turnkey scope conform vergunningstukken en NTA 8800 uitgangspunten",
+    "482 m² vloeroppervlak GO (som energielabels woning A-E)",
+    "5 zelfstandige woningen met eigen installaties",
+    "Prijzen indicatief Randstad 2026, excl. BTW",
+    "Geen honoraria architect/engineer (reeds aanwezig in vergunning)"
+  ],
+  "sources": [
+    "Uitgangspuntendocument NTA 8800 berekening",
+    "Ventilatieberekening 2301-2024",
+    "Constructieberekening 224873 D-101",
+    "Aanvulling notitie duurzaamheid",
+    "Energielabel woningen A t/m E"
+  ]
+}

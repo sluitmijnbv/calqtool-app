@@ -1,0 +1,918 @@
+{
+  "generatedAt": "2026-09-01T14:41:25.297Z",
+  "source": {
+    "type": "folder",
+    "input": "/workspace/projects/herenstraat-64/source",
+    "zipFile": null
+  },
+  "stats": {
+    "pdfCount": 34,
+    "totalPages": 127,
+    "totalTextChars": 285041
+  },
+  "project": {
+    "projectId": "herenstraat-64-leiden",
+    "name": "Transformatie Herenstraat 64 Leiden",
+    "address": {
+      "street": "Herenstraat 64",
+      "postalCode": "2313 AM",
+      "city": "Leiden",
+      "municipality": "Leiden",
+      "province": "Zuid-Holland"
+    },
+    "permit": {
+      "reference": "Z/25/3812047",
+      "description": "Transformatie schoolgebouw naar 5 zelfstandige woningen",
+      "submitted": "2025-03-14"
+    },
+    "building": {
+      "originalUse": "schoolgebouw",
+      "newUse": "woonfunctie",
+      "yearBuilt": 1920,
+      "plotAreaM2": 584,
+      "transformationType": "transformatie"
+    },
+    "program": {
+      "totalUnits": 5,
+      "scope": "turnkey",
+      "units": [
+        {
+          "id": "A1",
+          "type": "vierkant",
+          "floors": [
+            "BG",
+            "1e"
+          ],
+          "description": "Vierkant appartement over begane grond en eerste verdieping"
+        },
+        {
+          "id": "A2",
+          "type": "vierkant",
+          "floors": [
+            "BG",
+            "1e"
+          ],
+          "description": "Vierkant appartement over begane grond en eerste verdieping"
+        },
+        {
+          "id": "A3",
+          "type": "vierkant",
+          "floors": [
+            "BG",
+            "1e"
+          ],
+          "description": "Vierkant appartement over begane grond en eerste verdieping"
+        },
+        {
+          "id": "B1",
+          "type": "langwerpig",
+          "floors": [
+            "BG"
+          ],
+          "description": "Langwerpig hoekappartement begane grond"
+        },
+        {
+          "id": "B2",
+          "type": "langwerpig",
+          "floors": [
+            "1e"
+          ],
+          "description": "Langwerpig hoekappartement eerste verdieping"
+        }
+      ]
+    },
+    "stakeholders": {
+      "purpose": [
+        "gemeente",
+        "bank"
+      ],
+      "reportFormats": [
+        "pdf",
+        "xlsx"
+      ]
+    },
+    "notes": [
+      "Volledige turnkey transformatie inclusief constructie, installaties en afbouw.",
+      "PDF-bronbestanden worden geëxtraheerd naar projects/herenstraat-64/extracted/."
+    ]
+  },
+  "byCategory": {
+    "plattegrond": [
+      "224873-d-101pdf",
+      "plattegrond-begane-grond-bestaand",
+      "plattegrond-begane-grond-nieuw",
+      "plattegrond-verdieping-nieuw",
+      "uitgangspuntendocument-nta-8800-berekening",
+      "ventilatieberekening"
+    ],
+    "doorsnede": [
+      "gevelaanzicht-en-doorsnede",
+      "gevels-en-doorsnede-bestaand",
+      "herenstraat-64-bo-13pdf"
+    ],
+    "gevel": [
+      "aanvulling-notitie-duurzaamheid",
+      "bestaande-dakconstructie-en-aanzicht",
+      "daglichtberekening",
+      "dakaanzicht-bestaand",
+      "dakaanzicht",
+      "energielabel-woning-a",
+      "energielabel-woning-b",
+      "energielabel-woning-c",
+      "energielabel-woning-d",
+      "energielabel-woning-e",
+      "gevelaanzicht-en-doorsnede",
+      "gevelaanzichten-nieuw-wijz-16-09-25",
+      "gevels-bestaand",
+      "gevels-en-doorsnede-bestaand",
+      "gevels-nieuw",
+      "herenstraat-64-bo-13pdf",
+      "herenstraat-64-parkeren",
+      "uitgangspuntendocument-nta-8800-berekening",
+      "ventilatieberekening",
+      "detailtekening-gevels-bestaand"
+    ],
+    "detail": [
+      "aanvulling-notitie-duurzaamheid",
+      "daglichtberekening",
+      "energielabel-woning-a",
+      "energielabel-woning-b",
+      "energielabel-woning-c",
+      "energielabel-woning-d",
+      "energielabel-woning-e",
+      "gevelaanzicht-en-doorsnede",
+      "gevelaanzichten-nieuw-wijz-16-09-25",
+      "gevels-nieuw",
+      "herenstraat-64-b20-ramen4-2pdf",
+      "uitgangspuntendocument-nta-8800-berekening",
+      "detailtekening-gevels-bestaand"
+    ],
+    "installatie": [
+      "aanvulling-notitie-duurzaamheid",
+      "energielabel-woning-a",
+      "energielabel-woning-b",
+      "energielabel-woning-c",
+      "energielabel-woning-d",
+      "energielabel-woning-e",
+      "uitgangspuntendocument-nta-8800-berekening",
+      "ventilatieberekening"
+    ],
+    "constructie": [
+      "224873-d-101pdf",
+      "aanvulling-notitie-duurzaamheid",
+      "bestaande-dakconstructie-en-aanzicht",
+      "spantdakconstructie",
+      "uitgangspuntendocument-nta-8800-berekening"
+    ],
+    "situatie": [
+      "situatie-bestaand-en-nieuw"
+    ],
+    "begroting": [],
+    "vergunning": [],
+    "onbekend": [
+      "foto_s",
+      "herenstraat-64-parkeren2",
+      "herenstraat-64-sl-10pdf",
+      "herenstraat-64-sl-11pdf",
+      "herenstraat-64-sl-12pdf",
+      "inrichting-openbare-ruimte",
+      "solargesolodatasheet-eng0724pdf"
+    ]
+  },
+  "documents": [
+    {
+      "fileName": "224873 D-101.pdf.pdf",
+      "relativePath": "224873 D-101.pdf.pdf",
+      "slug": "224873-d-101pdf",
+      "pages": 50,
+      "categories": [
+        "plattegrond",
+        "constructie"
+      ],
+      "floors": [],
+      "scale": null,
+      "areasFound": [],
+      "title": null,
+      "textLength": 59581,
+      "textPreview": "RAADGEVEND Behoort bij beschikking van Burgemeester en Wethouders INGENIEURSBUREAU van Leiden Z/25/3812047 A. VAN LEEUWENHOEKWEG 32E 2408 AN ALPHEN A/D RIJN 0172-495200 INFO@VANDIJKEBV.NL WWW.VANDIJKEBV.NL Berekening constructie Verbouwing van het pand aan de Herenstraat 64 te Leiden Opdrachtgever : Nederlandse Bouwgroep Datum : 25 maart 2025 Datum wijziging A : Opdrachtnummer : 224873 Berekeningnummer : D-101 Gezien door de constructeurs van de gemeente Leiden. 12 augustus 2025 Project : Verbou",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/224873 D-101.pdf.pdf",
+        "text": "projects/herenstraat-64/extracted/texts/224873-d-101pdf.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/224873-d-101pdf.json"
+      }
+    },
+    {
+      "fileName": "Aanvulling notitie duurzaamheid .pdf",
+      "relativePath": "Aanvulling notitie duurzaamheid .pdf",
+      "slug": "aanvulling-notitie-duurzaamheid",
+      "pages": 2,
+      "categories": [
+        "gevel",
+        "detail",
+        "installatie",
+        "constructie"
+      ],
+      "floors": [],
+      "scale": null,
+      "areasFound": [],
+      "title": "Notitie Duurzaam project Herenstraat-Hof 64.odt",
+      "textLength": 2176,
+      "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden Project Herenstraat Hof 64 Z/25/3812047 Een duurzame projectontwikkeling Het plan bestaat uit het realiseren van twee appartementen en drie eengezinswoningen, in een voormalig schoolgebouw. Het is een duurzaam en bijzonder plan om meerdere reden. Duurzaam t.a.v. hergebruik materialen: • Uitkomend hout, uit het gebouw wordt hergebruikt bij de realisatie van de woningen, in wanden en/of vloeren. • Uitkomende steenachtige materialen ",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Aanvulling notitie duurzaamheid .pdf",
+        "text": "projects/herenstraat-64/extracted/texts/aanvulling-notitie-duurzaamheid.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/aanvulling-notitie-duurzaamheid.json"
+      }
+    },
+    {
+      "fileName": "Bestaande dakconstructie en aanzicht .pdf",
+      "relativePath": "Bestaande dakconstructie en aanzicht .pdf",
+      "slug": "bestaande-dakconstructie-en-aanzicht",
+      "pages": 1,
+      "categories": [
+        "gevel",
+        "constructie"
+      ],
+      "floors": [],
+      "scale": null,
+      "areasFound": [],
+      "title": "Herenstraat 64-BO-11",
+      "textLength": 603,
+      "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Bestaande dakconstructie en aanzicht .pdf",
+        "text": "projects/herenstraat-64/extracted/texts/bestaande-dakconstructie-en-aanzicht.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/bestaande-dakconstructie-en-aanzicht.json"
+      }
+    },
+    {
+      "fileName": "Daglichtberekening .pdf",
+      "relativePath": "Daglichtberekening .pdf",
+      "slug": "daglichtberekening",
+      "pages": 2,
+      "categories": [
+        "gevel",
+        "detail"
+      ],
+      "floors": [],
+      "scale": null,
+      "areasFound": [],
+      "title": "Daglichtberekening.docx",
+      "textLength": 580,
+      "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 Daglichtberekening Kozijnmerken, overzicht gevels Tuingevel Gevel Pioenstraat Aanzicht: Gevel Herenstraat binnengevel buitengevel berekening vl. NEN 2580 en NTA 2581",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Daglichtberekening .pdf",
+        "text": "projects/herenstraat-64/extracted/texts/daglichtberekening.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/daglichtberekening.json"
+      }
+    },
+    {
+      "fileName": "Dakaanzicht bestaand.pdf",
+      "relativePath": "Dakaanzicht bestaand.pdf",
+      "slug": "dakaanzicht-bestaand",
+      "pages": 1,
+      "categories": [
+        "gevel"
+      ],
+      "floors": [],
+      "scale": null,
+      "areasFound": [],
+      "title": "Herenstraat 64-BO-12",
+      "textLength": 565,
+      "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Dakaanzicht bestaand.pdf",
+        "text": "projects/herenstraat-64/extracted/texts/dakaanzicht-bestaand.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/dakaanzicht-bestaand.json"
+      }
+    },
+    {
+      "fileName": "Dakaanzicht.pdf",
+      "relativePath": "Dakaanzicht.pdf",
+      "slug": "dakaanzicht",
+      "pages": 1,
+      "categories": [
+        "gevel"
+      ],
+      "floors": [],
+      "scale": null,
+      "areasFound": [],
+      "title": "Herenstraat 64-B13",
+      "textLength": 581,
+      "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Dakaanzicht.pdf",
+        "text": "projects/herenstraat-64/extracted/texts/dakaanzicht.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/dakaanzicht.json"
+      }
+    },
+    {
+      "fileName": "Energielabel woning A .pdf",
+      "relativePath": "Energielabel woning A .pdf",
+      "slug": "energielabel-woning-a",
+      "pages": 8,
+      "categories": [
+        "gevel",
+        "detail",
+        "installatie"
+      ],
+      "floors": [],
+      "scale": null,
+      "areasFound": [
+        "99,2 m2",
+        "18 m2"
+      ],
+      "title": "Energielabel 585972862",
+      "textLength": 33860,
+      "textPreview": "Registratienummer Datum registratie Geldig tot Status Energielabel woningen 585972862 22-05-2025 Tot oplevering Voorlopig +++ Deze woning heeft energielabel A G PI Isolatie Installaties 1 Gevels 7 Verwarming Warmtepomp 2 Gevelpanelen 8 Warm water Warmtepomp 3 Daken 4 Vloeren 5 Ramen 6 Buitendeuren 10 Ventilatie 11 Koeling LO 9 Zonneboiler 12 Zonnepanelen Geen zonneboiler Natuurlijke toevoer met mechanische afzuiging Koeling aanwezig 4050 Wp Deze woning wordt niet verwarmd via een aardgasaansluit",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Energielabel woning A .pdf",
+        "text": "projects/herenstraat-64/extracted/texts/energielabel-woning-a.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/energielabel-woning-a.json"
+      }
+    },
+    {
+      "fileName": "Energielabel woning B .pdf",
+      "relativePath": "Energielabel woning B .pdf",
+      "slug": "energielabel-woning-b",
+      "pages": 8,
+      "categories": [
+        "gevel",
+        "detail",
+        "installatie"
+      ],
+      "floors": [],
+      "scale": null,
+      "areasFound": [
+        "99,7 m2",
+        "18 m2"
+      ],
+      "title": "Energielabel 374424810",
+      "textLength": 33431,
+      "textPreview": "Registratienummer Datum registratie Geldig tot Status Energielabel woningen 374424810 22-05-2025 Tot oplevering Voorlopig ++++ Deze woning heeft energielabel A G PI Isolatie Installaties 1 Gevels 7 Verwarming Warmtepomp 2 Gevelpanelen 8 Warm water Warmtepomp 3 Daken 4 Vloeren 5 Ramen 6 Buitendeuren 10 Ventilatie 11 Koeling LO 9 Zonneboiler 12 Zonnepanelen Geen zonneboiler Natuurlijke toevoer met mechanische afzuiging Koeling aanwezig 4050 Wp Deze woning wordt niet verwarmd via een aardgasaanslui",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Energielabel woning B .pdf",
+        "text": "projects/herenstraat-64/extracted/texts/energielabel-woning-b.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/energielabel-woning-b.json"
+      }
+    },
+    {
+      "fileName": "Energielabel woning C.pdf",
+      "relativePath": "Energielabel woning C.pdf",
+      "slug": "energielabel-woning-c",
+      "pages": 8,
+      "categories": [
+        "gevel",
+        "detail",
+        "installatie"
+      ],
+      "floors": [],
+      "scale": null,
+      "areasFound": [
+        "99,7 m2",
+        "18 m2"
+      ],
+      "title": "Energielabel 381343133",
+      "textLength": 33590,
+      "textPreview": "Registratienummer Datum registratie Geldig tot Status Energielabel woningen 381343133 22-05-2025 Tot oplevering Voorlopig ++++ Deze woning heeft energielabel A G PI Isolatie Installaties 1 Gevels 7 Verwarming Warmtepomp 2 Gevelpanelen 8 Warm water Warmtepomp 3 Daken 4 Vloeren 5 Ramen 6 Buitendeuren 10 Ventilatie 11 Koeling LO 9 Zonneboiler 12 Zonnepanelen Geen zonneboiler Natuurlijke toevoer met mechanische afzuiging Koeling aanwezig 4050 Wp Deze woning wordt niet verwarmd via een aardgasaanslui",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Energielabel woning C.pdf",
+        "text": "projects/herenstraat-64/extracted/texts/energielabel-woning-c.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/energielabel-woning-c.json"
+      }
+    },
+    {
+      "fileName": "Energielabel woning D .pdf",
+      "relativePath": "Energielabel woning D .pdf",
+      "slug": "energielabel-woning-d",
+      "pages": 8,
+      "categories": [
+        "gevel",
+        "detail",
+        "installatie"
+      ],
+      "floors": [],
+      "scale": null,
+      "areasFound": [
+        "88,3 m2",
+        "18 m2"
+      ],
+      "title": "Energielabel 985509387",
+      "textLength": 30792,
+      "textPreview": "Registratienummer Datum registratie Geldig tot Status Energielabel woningen 985509387 22-05-2025 Tot oplevering Voorlopig +++ Deze woning heeft energielabel A G PI Isolatie Installaties 1 Gevels 7 Verwarming Warmtepomp 2 Gevelpanelen 8 Warm water Warmtepomp 3 Daken 4 Vloeren 5 Ramen 6 Buitendeuren 10 Ventilatie 11 Koeling LO 9 Zonneboiler 12 Zonnepanelen Geen zonneboiler Natuurlijke toevoer met mechanische afzuiging Koeling aanwezig 4050 Wp Deze woning wordt niet verwarmd via een aardgasaansluit",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Energielabel woning D .pdf",
+        "text": "projects/herenstraat-64/extracted/texts/energielabel-woning-d.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/energielabel-woning-d.json"
+      }
+    },
+    {
+      "fileName": "Energielabel woning E .pdf",
+      "relativePath": "Energielabel woning E .pdf",
+      "slug": "energielabel-woning-e",
+      "pages": 8,
+      "categories": [
+        "gevel",
+        "detail",
+        "installatie"
+      ],
+      "floors": [],
+      "scale": null,
+      "areasFound": [
+        "94,7 m2",
+        "18 m2"
+      ],
+      "title": "Energielabel 875729897",
+      "textLength": 34432,
+      "textPreview": "Registratienummer Datum registratie Geldig tot Status Energielabel woningen 875729897 22-05-2025 Tot oplevering Voorlopig +++ Deze woning heeft energielabel A G PI Isolatie Installaties 1 Gevels 7 Verwarming Warmtepomp 2 Gevelpanelen 8 Warm water Warmtepomp 3 Daken 4 Vloeren 5 Ramen 6 Buitendeuren 10 Ventilatie 11 Koeling LO 9 Zonneboiler 12 Zonnepanelen Geen zonneboiler Natuurlijke toevoer met mechanische afzuiging Koeling aanwezig 4050 Wp Deze woning wordt niet verwarmd via een aardgasaansluit",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Energielabel woning E .pdf",
+        "text": "projects/herenstraat-64/extracted/texts/energielabel-woning-e.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/energielabel-woning-e.json"
+      }
+    },
+    {
+      "fileName": "Foto_s.pdf",
+      "relativePath": "Foto_s.pdf",
+      "slug": "foto_s",
+      "pages": 1,
+      "categories": [
+        "onbekend"
+      ],
+      "floors": [],
+      "scale": null,
+      "areasFound": [],
+      "title": "G:\\Projecten\\Herenstraat 64\\ONTWERP\\Herenstraat64 S02 (1)",
+      "textLength": 79,
+      "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Foto_s.pdf",
+        "text": "projects/herenstraat-64/extracted/texts/foto_s.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/foto_s.json"
+      }
+    },
+    {
+      "fileName": "Gevelaanzicht en doorsnede.pdf",
+      "relativePath": "Gevelaanzicht en doorsnede.pdf",
+      "slug": "gevelaanzicht-en-doorsnede",
+      "pages": 1,
+      "categories": [
+        "doorsnede",
+        "gevel",
+        "detail"
+      ],
+      "floors": [],
+      "scale": null,
+      "areasFound": [],
+      "title": "Herenstraat 64-B14",
+      "textLength": 2335,
+      "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 Kozijn merk G Kozijn merk F HEA-160 HEA-160 balklaag 59x156 h.o.h 600 balklaag 59x171 h.o.h 600 HEA-260 Kozijn merk H Doorsnede A-A Doorsnede B-B Kozijn merk J Kozijn merk J Gevelaanzicht Herenstraat Doorsnede C-C maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Gevelaanzicht en doorsnede.pdf",
+        "text": "projects/herenstraat-64/extracted/texts/gevelaanzicht-en-doorsnede.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/gevelaanzicht-en-doorsnede.json"
+      }
+    },
+    {
+      "fileName": "Gevelaanzichten nieuw wijz. 16-09-25.pdf",
+      "relativePath": "Gevelaanzichten nieuw wijz. 16-09-25.pdf",
+      "slug": "gevelaanzichten-nieuw-wijz-16-09-25",
+      "pages": 1,
+      "categories": [
+        "gevel",
+        "detail"
+      ],
+      "floors": [],
+      "scale": null,
+      "areasFound": [],
+      "title": "Herenstraat 64-B15",
+      "textLength": 2145,
+      "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 Kozijn merk A Kozijn merk A Kozijn merk A Kozijn merk B Gevelaanzicht Pioenstraat Kozijn merk D Kozijn merk L Kozijn merk F Kozijn merk F Kozijn merk F Kozijn merk F Kozijn merk F Kozijn merk F Kozijn merk C Kozijn merk E Kozijn merk E Kozijn merk E Gevelaanzicht binnentuin maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Gevelaanzichten nieuw wijz. 16-09-25.pdf",
+        "text": "projects/herenstraat-64/extracted/texts/gevelaanzichten-nieuw-wijz-16-09-25.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/gevelaanzichten-nieuw-wijz-16-09-25.json"
+      }
+    },
+    {
+      "fileName": "Gevels bestaand.pdf",
+      "relativePath": "Gevels bestaand.pdf",
+      "slug": "gevels-bestaand",
+      "pages": 1,
+      "categories": [
+        "gevel"
+      ],
+      "floors": [],
+      "scale": null,
+      "areasFound": [],
+      "title": "Herenstraat 64-BO-14",
+      "textLength": 699,
+      "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 Gevelaanzicht binnentuin Gevelaanzicht Pioenstraat maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Gevels bestaand.pdf",
+        "text": "projects/herenstraat-64/extracted/texts/gevels-bestaand.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/gevels-bestaand.json"
+      }
+    },
+    {
+      "fileName": "Gevels en doorsnede bestaand.pdf",
+      "relativePath": "Gevels en doorsnede bestaand.pdf",
+      "slug": "gevels-en-doorsnede-bestaand",
+      "pages": 1,
+      "categories": [
+        "doorsnede",
+        "gevel"
+      ],
+      "floors": [],
+      "scale": null,
+      "areasFound": [],
+      "title": "Herenstraat 64-BO-13",
+      "textLength": 1098,
+      "textPreview": "Doorsnede A-A Doorsnede B-B Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 Gevelaanzicht Herenstraat maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Gevels en doorsnede bestaand.pdf",
+        "text": "projects/herenstraat-64/extracted/texts/gevels-en-doorsnede-bestaand.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/gevels-en-doorsnede-bestaand.json"
+      }
+    },
+    {
+      "fileName": "Gevels nieuw.pdf",
+      "relativePath": "Gevels nieuw.pdf",
+      "slug": "gevels-nieuw",
+      "pages": 1,
+      "categories": [
+        "gevel",
+        "detail"
+      ],
+      "floors": [],
+      "scale": null,
+      "areasFound": [],
+      "title": "Herenstraat 64-B15",
+      "textLength": 2210,
+      "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 Kozijn merk A Kozijn merk A Kozijn merk A Kozijn merk B Gevelaanzicht Pioenstraat Kozijn merk D Kozijn merk L Kozijn merk F Kozijn merk F Kozijn merk F Kozijn merk F Kozijn merk F Kozijn merk F Kozijn merk C Kozijn merk E Kozijn merk E Kozijn merk E Gevelaanzicht binnentuin maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Gevels nieuw.pdf",
+        "text": "projects/herenstraat-64/extracted/texts/gevels-nieuw.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/gevels-nieuw.json"
+      }
+    },
+    {
+      "fileName": "Herenstraat 64-B20 ramen4 (2).pdf.pdf",
+      "relativePath": "Herenstraat 64-B20 ramen4 (2).pdf.pdf",
+      "slug": "herenstraat-64-b20-ramen4-2pdf",
+      "pages": 1,
+      "categories": [
+        "detail"
+      ],
+      "floors": [],
+      "scale": null,
+      "areasFound": [],
+      "title": "Herenstraat 64-B20 ramen4 (2)",
+      "textLength": 1221,
+      "textPreview": "A Detail A B Detail B C 1 2 3 4 5 Detail C Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 Detail 1 Detail 2 Detail 3 Detail 4 Detail 5 maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Herenstraat 64-B20 ramen4 (2).pdf.pdf",
+        "text": "projects/herenstraat-64/extracted/texts/herenstraat-64-b20-ramen4-2pdf.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/herenstraat-64-b20-ramen4-2pdf.json"
+      }
+    },
+    {
+      "fileName": "Herenstraat 64-BO-13.pdf.pdf",
+      "relativePath": "Herenstraat 64-BO-13.pdf.pdf",
+      "slug": "herenstraat-64-bo-13pdf",
+      "pages": 1,
+      "categories": [
+        "doorsnede",
+        "gevel"
+      ],
+      "floors": [],
+      "scale": null,
+      "areasFound": [],
+      "title": "Herenstraat 64-BO-13",
+      "textLength": 1026,
+      "textPreview": "Doorsnede A-A Doorsnede B-B Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 Gevelaanzicht Herenstraat maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Herenstraat 64-BO-13.pdf.pdf",
+        "text": "projects/herenstraat-64/extracted/texts/herenstraat-64-bo-13pdf.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/herenstraat-64-bo-13pdf.json"
+      }
+    },
+    {
+      "fileName": "Herenstraat 64-Parkeren.pdf",
+      "relativePath": "Herenstraat 64-Parkeren.pdf",
+      "slug": "herenstraat-64-parkeren",
+      "pages": 1,
+      "categories": [
+        "gevel"
+      ],
+      "floors": [],
+      "scale": null,
+      "areasFound": [],
+      "title": "Herenstraat 64-Parkeren",
+      "textLength": 1515,
+      "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 Gevel Herenstraat 64 Pioenstraat bak kast bak kast boom bank L Herenstraat maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Herenstraat 64-Parkeren.pdf",
+        "text": "projects/herenstraat-64/extracted/texts/herenstraat-64-parkeren.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/herenstraat-64-parkeren.json"
+      }
+    },
+    {
+      "fileName": "Herenstraat 64-Parkeren2.pdf",
+      "relativePath": "Herenstraat 64-Parkeren2.pdf",
+      "slug": "herenstraat-64-parkeren2",
+      "pages": 1,
+      "categories": [
+        "onbekend"
+      ],
+      "floors": [],
+      "scale": null,
+      "areasFound": [],
+      "title": "Herenstraat 64-Parkeren2",
+      "textLength": 954,
+      "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 raat nst Here L maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Herenstraat 64-Parkeren2.pdf",
+        "text": "projects/herenstraat-64/extracted/texts/herenstraat-64-parkeren2.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/herenstraat-64-parkeren2.json"
+      }
+    },
+    {
+      "fileName": "Herenstraat 64-SL-10.pdf.pdf",
+      "relativePath": "Herenstraat 64-SL-10.pdf.pdf",
+      "slug": "herenstraat-64-sl-10pdf",
+      "pages": 1,
+      "categories": [
+        "onbekend"
+      ],
+      "floors": [],
+      "scale": null,
+      "areasFound": [],
+      "title": "Herenstraat 64-SL-10",
+      "textLength": 574,
+      "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Herenstraat 64-SL-10.pdf.pdf",
+        "text": "projects/herenstraat-64/extracted/texts/herenstraat-64-sl-10pdf.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/herenstraat-64-sl-10pdf.json"
+      }
+    },
+    {
+      "fileName": "Herenstraat 64-SL-11.pdf.pdf",
+      "relativePath": "Herenstraat 64-SL-11.pdf.pdf",
+      "slug": "herenstraat-64-sl-11pdf",
+      "pages": 1,
+      "categories": [
+        "onbekend"
+      ],
+      "floors": [],
+      "scale": null,
+      "areasFound": [],
+      "title": "Herenstraat 64-SL-11",
+      "textLength": 605,
+      "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Herenstraat 64-SL-11.pdf.pdf",
+        "text": "projects/herenstraat-64/extracted/texts/herenstraat-64-sl-11pdf.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/herenstraat-64-sl-11pdf.json"
+      }
+    },
+    {
+      "fileName": "Herenstraat 64-SL-12.pdf.pdf",
+      "relativePath": "Herenstraat 64-SL-12.pdf.pdf",
+      "slug": "herenstraat-64-sl-12pdf",
+      "pages": 1,
+      "categories": [
+        "onbekend"
+      ],
+      "floors": [],
+      "scale": null,
+      "areasFound": [],
+      "title": "Herenstraat 64-SL-12",
+      "textLength": 570,
+      "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Herenstraat 64-SL-12.pdf.pdf",
+        "text": "projects/herenstraat-64/extracted/texts/herenstraat-64-sl-12pdf.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/herenstraat-64-sl-12pdf.json"
+      }
+    },
+    {
+      "fileName": "Inrichting openbare ruimte.pdf",
+      "relativePath": "Inrichting openbare ruimte.pdf",
+      "slug": "inrichting-openbare-ruimte",
+      "pages": 1,
+      "categories": [
+        "onbekend"
+      ],
+      "floors": [],
+      "scale": null,
+      "areasFound": [],
+      "title": null,
+      "textLength": 0,
+      "textPreview": "",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Inrichting openbare ruimte.pdf",
+        "text": "projects/herenstraat-64/extracted/texts/inrichting-openbare-ruimte.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/inrichting-openbare-ruimte.json"
+      }
+    },
+    {
+      "fileName": "Plattegrond begane grond bestaand.pdf",
+      "relativePath": "Plattegrond begane grond bestaand.pdf",
+      "slug": "plattegrond-begane-grond-bestaand",
+      "pages": 1,
+      "categories": [
+        "plattegrond"
+      ],
+      "floors": [
+        "BG"
+      ],
+      "scale": null,
+      "areasFound": [],
+      "title": "Herenstraat 64-BO-10",
+      "textLength": 611,
+      "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Plattegrond begane grond bestaand.pdf",
+        "text": "projects/herenstraat-64/extracted/texts/plattegrond-begane-grond-bestaand.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/plattegrond-begane-grond-bestaand.json"
+      }
+    },
+    {
+      "fileName": "Plattegrond begane grond nieuw.pdf",
+      "relativePath": "Plattegrond begane grond nieuw.pdf",
+      "slug": "plattegrond-begane-grond-nieuw",
+      "pages": 1,
+      "categories": [
+        "plattegrond"
+      ],
+      "floors": [
+        "BG"
+      ],
+      "scale": null,
+      "areasFound": [],
+      "title": "Herenstraat 64-B10",
+      "textLength": 582,
+      "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Plattegrond begane grond nieuw.pdf",
+        "text": "projects/herenstraat-64/extracted/texts/plattegrond-begane-grond-nieuw.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/plattegrond-begane-grond-nieuw.json"
+      }
+    },
+    {
+      "fileName": "Plattegrond verdieping nieuw.pdf",
+      "relativePath": "Plattegrond verdieping nieuw.pdf",
+      "slug": "plattegrond-verdieping-nieuw",
+      "pages": 1,
+      "categories": [
+        "plattegrond"
+      ],
+      "floors": [],
+      "scale": null,
+      "areasFound": [],
+      "title": "Herenstraat 64-B11",
+      "textLength": 773,
+      "textPreview": "5 4 3 2 1 Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Plattegrond verdieping nieuw.pdf",
+        "text": "projects/herenstraat-64/extracted/texts/plattegrond-verdieping-nieuw.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/plattegrond-verdieping-nieuw.json"
+      }
+    },
+    {
+      "fileName": "Situatie bestaand en nieuw.pdf",
+      "relativePath": "Situatie bestaand en nieuw.pdf",
+      "slug": "situatie-bestaand-en-nieuw",
+      "pages": 1,
+      "categories": [
+        "situatie"
+      ],
+      "floors": [],
+      "scale": null,
+      "areasFound": [],
+      "title": "Herenstraat 64-B17",
+      "textLength": 1253,
+      "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 Foto 4 Foto 5 Bestaande situatie Nieuwe situatie Foto 1 Foto 2 Foto 2 Foto 1 Foto 3 Foto 5 Foto 3 Foto 4 maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Situatie bestaand en nieuw.pdf",
+        "text": "projects/herenstraat-64/extracted/texts/situatie-bestaand-en-nieuw.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/situatie-bestaand-en-nieuw.json"
+      }
+    },
+    {
+      "fileName": "Solarge+SOLO+Datasheet+-+ENG+0724.pdf.pdf",
+      "relativePath": "Solarge+SOLO+Datasheet+-+ENG+0724.pdf.pdf",
+      "slug": "solargesolodatasheet-eng0724pdf",
+      "pages": 5,
+      "categories": [
+        "onbekend"
+      ],
+      "floors": [],
+      "scale": null,
+      "areasFound": [],
+      "title": null,
+      "textLength": 23464,
+      "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden SOLO ® Z/25/3812047 Lightweight, 100% Circular and Low Carbon footprint 500 ~ 520 Wp Mono PERC - 72 cells Strong and light polymers result in a weight of only 5,5kg/m2 25% better carbon footprint than conventional modules Designed for circularity PFAS-free Take-back guarantee 25 years 16 years Power warranty Product warranty Certifications & Quality Standards IEC 61215/61730* IEC 62716* (Ammonia) IEC 61701* (Salt) IEC 60068-2-68* ",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Solarge+SOLO+Datasheet+-+ENG+0724.pdf.pdf",
+        "text": "projects/herenstraat-64/extracted/texts/solargesolodatasheet-eng0724pdf.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/solargesolodatasheet-eng0724pdf.json"
+      }
+    },
+    {
+      "fileName": "Spantdakconstructie.pdf",
+      "relativePath": "Spantdakconstructie.pdf",
+      "slug": "spantdakconstructie",
+      "pages": 1,
+      "categories": [
+        "constructie"
+      ],
+      "floors": [],
+      "scale": null,
+      "areasFound": [],
+      "title": "Herenstraat 64-B12",
+      "textLength": 642,
+      "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Spantdakconstructie.pdf",
+        "text": "projects/herenstraat-64/extracted/texts/spantdakconstructie.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/spantdakconstructie.json"
+      }
+    },
+    {
+      "fileName": "Uitgangspuntendocument NTA 8800 berekening.pdf",
+      "relativePath": "Uitgangspuntendocument NTA 8800 berekening.pdf",
+      "slug": "uitgangspuntendocument-nta-8800-berekening",
+      "pages": 3,
+      "categories": [
+        "plattegrond",
+        "gevel",
+        "detail",
+        "installatie",
+        "constructie"
+      ],
+      "floors": [
+        "BG"
+      ],
+      "scale": "1:89",
+      "areasFound": [
+        "3,70 m²",
+        "4,70 m²",
+        "6,30 m²"
+      ],
+      "title": null,
+      "textLength": 4004,
+      "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 Uitgangspuntendocument NTA 8800 berekening Project: transformatie schoolgebouw Herenstraat 164 Leiden tot 5 woningen Datum: 22 mei 2025 Inleiding Voor het project “transformatie schoolgebouw Herenstraat 164 in Leiden” zijn NTA 8800 berekeningen gemaakt (aangepast 22.05.2025) Deze notitie bevat de uitgangspunten en resultaten van de berekening. Voor dit pand betekent dit concreet dat aan de volgende eisen moet worden v",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Uitgangspuntendocument NTA 8800 berekening.pdf",
+        "text": "projects/herenstraat-64/extracted/texts/uitgangspuntendocument-nta-8800-berekening.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/uitgangspuntendocument-nta-8800-berekening.json"
+      }
+    },
+    {
+      "fileName": "Ventilatieberekening .pdf",
+      "relativePath": "Ventilatieberekening .pdf",
+      "slug": "ventilatieberekening",
+      "pages": 2,
+      "categories": [
+        "plattegrond",
+        "gevel",
+        "installatie"
+      ],
+      "floors": [],
+      "scale": null,
+      "areasFound": [],
+      "title": "ventilatieberekening.xlsx",
+      "textLength": 7122,
+      "textPreview": "Ventilatieberekening Behoort bij beschikking van Burgemeester en Wethouders van Leiden Projektnaam: Woningen Herenstraat 64 Leiden Z/25/3812047 werknummer 2301-2024 datum 5 februari 2025 gewijzigd Uitgangspunt: NEN 8087 Ventileren volgens bouwbesluit 2012 Verblijfsgebied: > 0,9 dm3/s per m2 vloeroppervlak met een minimum van 7 dm3/s Verblijfsruimte: > 0,7 dm3/s per m2 vloeroppervlak met een minimum van 7 dm3/s Verblijfsgeb. met opstel pl kooktoestel > 21 dm3/s (opstelplaats max 15kW) Gem. verkee",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/Ventilatieberekening .pdf",
+        "text": "projects/herenstraat-64/extracted/texts/ventilatieberekening.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/ventilatieberekening.json"
+      }
+    },
+    {
+      "fileName": "detailtekening gevels bestaand.pdf",
+      "relativePath": "detailtekening gevels bestaand.pdf",
+      "slug": "detailtekening-gevels-bestaand",
+      "pages": 1,
+      "categories": [
+        "gevel",
+        "detail"
+      ],
+      "floors": [],
+      "scale": null,
+      "areasFound": [],
+      "title": "Herenstraat 64-B20 ramen4",
+      "textLength": 1368,
+      "textPreview": "A Detail A B Detail B C 4 1 2 3 5 Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 Detail C Detail 1 Detail 2 Detail 3 Detail 4 Detail 5 maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+      "paths": {
+        "pdf": "projects/herenstraat-64/extracted/pdfs/detailtekening gevels bestaand.pdf",
+        "text": "projects/herenstraat-64/extracted/texts/detailtekening-gevels-bestaand.txt",
+        "summary": "projects/herenstraat-64/extracted/summaries/detailtekening-gevels-bestaand.json"
+      }
+    }
+  ]
+}

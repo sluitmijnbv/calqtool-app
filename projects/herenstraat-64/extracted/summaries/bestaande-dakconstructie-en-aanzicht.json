@@ -1,0 +1,21 @@
+{
+  "fileName": "Bestaande dakconstructie en aanzicht .pdf",
+  "relativePath": "Bestaande dakconstructie en aanzicht .pdf",
+  "slug": "bestaande-dakconstructie-en-aanzicht",
+  "pages": 1,
+  "categories": [
+    "gevel",
+    "constructie"
+  ],
+  "floors": [],
+  "scale": null,
+  "areasFound": [],
+  "title": "Herenstraat 64-BO-11",
+  "textLength": 603,
+  "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+  "paths": {
+    "pdf": "projects/herenstraat-64/extracted/pdfs/Bestaande dakconstructie en aanzicht .pdf",
+    "text": "projects/herenstraat-64/extracted/texts/bestaande-dakconstructie-en-aanzicht.txt",
+    "summary": "projects/herenstraat-64/extracted/summaries/bestaande-dakconstructie-en-aanzicht.json"
+  }
+}

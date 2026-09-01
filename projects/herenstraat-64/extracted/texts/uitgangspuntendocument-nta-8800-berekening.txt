@@ -1,0 +1,112 @@
+Behoort bij beschikking van
+                                                                Burgemeester en Wethouders
+                                                                van Leiden
+
+                                                                 Z/25/3812047
+Uitgangspuntendocument NTA 8800 berekening
+
+Project:                 transformatie schoolgebouw Herenstraat 164 Leiden tot 5 woningen
+
+Datum:                   22 mei 2025
+
+Inleiding
+
+Voor het project “transformatie schoolgebouw Herenstraat 164 in Leiden” zijn NTA 8800
+berekeningen gemaakt (aangepast 22.05.2025)
+
+Deze notitie bevat de uitgangspunten en resultaten van de berekening. Voor dit pand betekent dit
+concreet dat aan de volgende eisen moet worden voldaan:
+
+•   BENG 1:    89,14/73,14/73,92 kWh/m²
+•   BENG 2:    30 kWh/m²
+•   BENG 3:    50 %
+
+Het gebouw is ingevoerd in de software aan de hand van de ontvangen tekeningen.
+
+Uitgangspunten
+Algemeen
+
+•   Gebouwtype                  gebouw met 3 eengezinswoningen en 2 appartementen
+•   Bouwlagen                   2
+•   Bouwtype                    massieve vloer in combinatie met lichte wanden
+
+Bouwkundig
+
+•   Rc-waarde bg vloer          minimaal 3,70 m²K/W;
+•   Rc-waarde gevel             minimaal 4,70 m²K/W;
+•   Rc-waarde dak               minimaal 6,30 m²K/W;
+•   U-waarde glas               1,00 W/m²K HR++
+•   U-waarde kozijn             1,65 W/m²K dmv metalen thermisch onderbroken kozijnen;
+•   Psi-waarde glas             0,06
+•   G-factor/ZTA                0,40
+•   U-waarde deur               maximaal 1,65 W/m²K, geïsoleerde deuren;
+•   Koudebruggen                forfaitair
+•   Standleiding                1 geïsoleerde standleiding VWA door thermische schil
+
+Belangrijk is dat bij de oplevering de Rc-berekeningen van de verschillende constructies kunnen
+worden overhandigd als bewijs dat de hierboven omschreven waarden gehaald worden
+
+
+
+
+                                 Pagina 1 van 3 – 22 mei 2025
+Installaties
+
+Verwarming
+
+•   Lucht/lucht warmtepomp, fabricaat Atag/Daikin/Remeha, met een vermogen van 4,5/6 kW en
+    een geïntegreerd elektrisch verwarmingselement voor bijverwarming. De warmtepomp moet zijn
+    voorzien van een kwaliteitsverklaring in de BCRG
+        • Vloerverwarming als hoofdverwarming, vloerverwarmingsverdeler voorzien van aparte
+            pomp
+        • Centrale naregeling per ruimte
+
+Warmtapwatervoorziening
+
+•   Tapwater door middel van warmtepompboiler, fabricaat Vaillant, type aroSTOR VWL B 150/5,
+    inhoud 150 liter, voorzien van systeemkwaliteitsverklaring
+•   Tapwater in keuken dmv quooker, type Combi
+
+Ventilatie
+
+•   Mechanische ventilatie dmv mechanische afvoer in combinatie met natuurlijke luchttoevoer. Ivm
+    toepassing van kwaliteitsverklaring is uitgegaan van een Duco Silent system, bestaande uit:
+        • Ducobox zonder klepsturing;
+        • Winddrukgestuurde toevoerroosters, delta P < 1 Pa in de gevels van
+            woonkamer/keuken/slaapkamers
+        • Een CO2 sensor in de woonkamer/keuken
+        • Een CO2 sensor in de hoofdslaapkamer
+        • Bedieningsschakelaar in de woonkamer/keuken voor nachtstand/hoogstand
+            (geïntegreerd in CO2 sensor van woonkamer)
+        • Bedieningsschakelaar in badkamer
+
+Koeling
+
+•   Vloerkoeling met naregeling per ruimte
+
+PV-panelen
+
+•   Zonnepanelen volgens daktekening, gemonteerd in het schuine dakvlak (9 stuks per woning).
+    Fabricaat en type in overleg met installateur te bepalen. Minimaal 225 Wp/m² en voorzien van
+    kwaliteitsverklaring.
+•   Bouwintegratie: matig geventileerd in het schuine dak/luchtspouw
+•   Hellinghoek 45 graden
+
+Zonwering
+
+Niet opgenomen
+
+
+
+
+                                Pagina 2 van 3 – 22 mei 2025
+Resultaten
+
+Hieronder de resultaten van de NTA8800 berekeningen. De berekeningen zijn gemaakt met de Vabi-
+software, versie 11.1.1 van 21 februari 2025. Hieruit blijkt dat aan de eisen, gesteld in het
+Bouwbesluit 2012, wordt voldaan.
+
+
+
+
+                               Pagina 3 van 3 – 22 mei 2025

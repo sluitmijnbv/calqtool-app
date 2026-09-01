@@ -1,0 +1,20 @@
+{
+  "fileName": "Situatie bestaand en nieuw.pdf",
+  "relativePath": "Situatie bestaand en nieuw.pdf",
+  "slug": "situatie-bestaand-en-nieuw",
+  "pages": 1,
+  "categories": [
+    "situatie"
+  ],
+  "floors": [],
+  "scale": null,
+  "areasFound": [],
+  "title": "Herenstraat 64-B17",
+  "textLength": 1253,
+  "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 Foto 4 Foto 5 Bestaande situatie Nieuwe situatie Foto 1 Foto 2 Foto 2 Foto 1 Foto 3 Foto 5 Foto 3 Foto 4 maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+  "paths": {
+    "pdf": "projects/herenstraat-64/extracted/pdfs/Situatie bestaand en nieuw.pdf",
+    "text": "projects/herenstraat-64/extracted/texts/situatie-bestaand-en-nieuw.txt",
+    "summary": "projects/herenstraat-64/extracted/summaries/situatie-bestaand-en-nieuw.json"
+  }
+}
