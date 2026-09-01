@@ -54,6 +54,8 @@
       <section id="view-overview" class="ct-view active">
         <div class="ct-card">
           <h2>Welkom bij CalqTool</h2>
+          <p>Project: <strong>Herenstraat 64 Leiden</strong> — transformatie school naar 5 woningen (turnkey).</p>
+          <p class="ct-hint">ZIP met tekeningen? Plaats in <code>projects/herenstraat-64/source/</code> en draai <code>npm run extract:herenstraat</code>.</p>
         </div>
       </section>
 
@@ -62,10 +64,13 @@
         <div class="ct-card">
 
           <div class="ct-drawing-upload">
-            <input type="file" id="ct-drawing-file" accept="image/*,application/pdf">
+            <input type="file" id="ct-drawing-file"
+                   accept="image/*,application/pdf,application/zip,.zip"
+                   multiple>
             <button id="ct-analyze-drawing" class="ct-btn-primary">
               Analyseer tekening
             </button>
+            <p id="ct-upload-status" class="ct-upload-status"></p>
           </div>
 
           <div id="ct-execution-selector" class="ct-execution-selector"></div>

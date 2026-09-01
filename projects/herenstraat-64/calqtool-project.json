@@ -1,0 +1,32 @@
+{
+  "plan": "trial",
+  "usage": { "measure": 0, "review": 0, "export": 0 },
+  "region": "randstad",
+  "year": "2026",
+  "executionIndex": 0,
+  "project": {
+    "id": "herenstraat-64-leiden",
+    "name": "Transformatie Herenstraat 64 Leiden",
+    "type": "transformatie",
+    "address": "Herenstraat 64, 2313 AM Leiden",
+    "permitRef": "Z/25/3812047",
+    "scope": "turnkey",
+    "libraryVersion": "2026_v3",
+    "executions": [
+      {
+        "id": "exec-turnkey",
+        "name": "Turnkey transformatie — 5 woningen",
+        "description": "Schoolgebouw naar 5 zelfstandige woningen",
+        "elements": []
+      }
+    ],
+    "units": [
+      { "id": "A1", "type": "vierkant", "floors": ["BG", "1e"] },
+      { "id": "A2", "type": "vierkant", "floors": ["BG", "1e"] },
+      { "id": "A3", "type": "vierkant", "floors": ["BG", "1e"] },
+      { "id": "B1", "type": "langwerpig", "floors": ["BG"] },
+      { "id": "B2", "type": "langwerpig", "floors": ["1e"] }
+    ],
+    "sourceExtract": "projects/herenstraat-64/extracted/index.json"
+  }
+}

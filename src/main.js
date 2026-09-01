@@ -9,6 +9,7 @@ import './modules/project.js'
 import './modules/report.js'
 import './modules/assistant.js'
 import './modules/drawing.js'
+import { initBulkUpload } from './modules/bulkUpload.js'
 import './modules/performance.js'
 
 import './modules/builder.js'
@@ -17,3 +18,4 @@ import './ui/builderView.js'
 renderLayout()
 initState()
 restore()
+initBulkUpload()

@@ -1,0 +1,67 @@
+{
+  "projectId": "herenstraat-64-leiden",
+  "name": "Transformatie Herenstraat 64 Leiden",
+  "address": {
+    "street": "Herenstraat 64",
+    "postalCode": "2313 AM",
+    "city": "Leiden",
+    "municipality": "Leiden",
+    "province": "Zuid-Holland"
+  },
+  "permit": {
+    "reference": "Z/25/3812047",
+    "description": "Transformatie schoolgebouw naar 5 zelfstandige woningen",
+    "submitted": "2025-03-14"
+  },
+  "building": {
+    "originalUse": "schoolgebouw",
+    "newUse": "woonfunctie",
+    "yearBuilt": 1920,
+    "plotAreaM2": 584,
+    "transformationType": "transformatie"
+  },
+  "program": {
+    "totalUnits": 5,
+    "scope": "turnkey",
+    "units": [
+      {
+        "id": "A1",
+        "type": "vierkant",
+        "floors": ["BG", "1e"],
+        "description": "Vierkant appartement over begane grond en eerste verdieping"
+      },
+      {
+        "id": "A2",
+        "type": "vierkant",
+        "floors": ["BG", "1e"],
+        "description": "Vierkant appartement over begane grond en eerste verdieping"
+      },
+      {
+        "id": "A3",
+        "type": "vierkant",
+        "floors": ["BG", "1e"],
+        "description": "Vierkant appartement over begane grond en eerste verdieping"
+      },
+      {
+        "id": "B1",
+        "type": "langwerpig",
+        "floors": ["BG"],
+        "description": "Langwerpig hoekappartement begane grond"
+      },
+      {
+        "id": "B2",
+        "type": "langwerpig",
+        "floors": ["1e"],
+        "description": "Langwerpig hoekappartement eerste verdieping"
+      }
+    ]
+  },
+  "stakeholders": {
+    "purpose": ["gemeente", "bank"],
+    "reportFormats": ["pdf", "xlsx"]
+  },
+  "notes": [
+    "Volledige turnkey transformatie inclusief constructie, installaties en afbouw.",
+    "PDF-bronbestanden worden geëxtraheerd naar projects/herenstraat-64/extracted/."
+  ]
+}
