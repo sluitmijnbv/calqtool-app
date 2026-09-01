@@ -1,0 +1,20 @@
+{
+  "fileName": "Herenstraat 64-B20 ramen4 (2).pdf.pdf",
+  "relativePath": "Herenstraat 64-B20 ramen4 (2).pdf.pdf",
+  "slug": "herenstraat-64-b20-ramen4-2pdf",
+  "pages": 1,
+  "categories": [
+    "detail"
+  ],
+  "floors": [],
+  "scale": null,
+  "areasFound": [],
+  "title": "Herenstraat 64-B20 ramen4 (2)",
+  "textLength": 1221,
+  "textPreview": "A Detail A B Detail B C 1 2 3 4 5 Detail C Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 Detail 1 Detail 2 Detail 3 Detail 4 Detail 5 maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+  "paths": {
+    "pdf": "projects/herenstraat-64/extracted/pdfs/Herenstraat 64-B20 ramen4 (2).pdf.pdf",
+    "text": "projects/herenstraat-64/extracted/texts/herenstraat-64-b20-ramen4-2pdf.txt",
+    "summary": "projects/herenstraat-64/extracted/summaries/herenstraat-64-b20-ramen4-2pdf.json"
+  }
+}

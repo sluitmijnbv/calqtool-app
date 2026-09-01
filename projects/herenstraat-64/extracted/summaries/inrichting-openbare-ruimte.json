@@ -1,0 +1,20 @@
+{
+  "fileName": "Inrichting openbare ruimte.pdf",
+  "relativePath": "Inrichting openbare ruimte.pdf",
+  "slug": "inrichting-openbare-ruimte",
+  "pages": 1,
+  "categories": [
+    "onbekend"
+  ],
+  "floors": [],
+  "scale": null,
+  "areasFound": [],
+  "title": null,
+  "textLength": 0,
+  "textPreview": "",
+  "paths": {
+    "pdf": "projects/herenstraat-64/extracted/pdfs/Inrichting openbare ruimte.pdf",
+    "text": "projects/herenstraat-64/extracted/texts/inrichting-openbare-ruimte.txt",
+    "summary": "projects/herenstraat-64/extracted/summaries/inrichting-openbare-ruimte.json"
+  }
+}

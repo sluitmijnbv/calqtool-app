@@ -1,0 +1,20 @@
+{
+  "fileName": "Spantdakconstructie.pdf",
+  "relativePath": "Spantdakconstructie.pdf",
+  "slug": "spantdakconstructie",
+  "pages": 1,
+  "categories": [
+    "constructie"
+  ],
+  "floors": [],
+  "scale": null,
+  "areasFound": [],
+  "title": "Herenstraat 64-B12",
+  "textLength": 642,
+  "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+  "paths": {
+    "pdf": "projects/herenstraat-64/extracted/pdfs/Spantdakconstructie.pdf",
+    "text": "projects/herenstraat-64/extracted/texts/spantdakconstructie.txt",
+    "summary": "projects/herenstraat-64/extracted/summaries/spantdakconstructie.json"
+  }
+}

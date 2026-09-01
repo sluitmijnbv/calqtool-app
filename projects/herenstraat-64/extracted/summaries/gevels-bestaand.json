@@ -1,0 +1,20 @@
+{
+  "fileName": "Gevels bestaand.pdf",
+  "relativePath": "Gevels bestaand.pdf",
+  "slug": "gevels-bestaand",
+  "pages": 1,
+  "categories": [
+    "gevel"
+  ],
+  "floors": [],
+  "scale": null,
+  "areasFound": [],
+  "title": "Herenstraat 64-BO-14",
+  "textLength": 699,
+  "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 Gevelaanzicht binnentuin Gevelaanzicht Pioenstraat maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+  "paths": {
+    "pdf": "projects/herenstraat-64/extracted/pdfs/Gevels bestaand.pdf",
+    "text": "projects/herenstraat-64/extracted/texts/gevels-bestaand.txt",
+    "summary": "projects/herenstraat-64/extracted/summaries/gevels-bestaand.json"
+  }
+}

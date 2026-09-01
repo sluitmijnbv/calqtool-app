@@ -1,0 +1,20 @@
+{
+  "fileName": "Herenstraat 64-Parkeren.pdf",
+  "relativePath": "Herenstraat 64-Parkeren.pdf",
+  "slug": "herenstraat-64-parkeren",
+  "pages": 1,
+  "categories": [
+    "gevel"
+  ],
+  "floors": [],
+  "scale": null,
+  "areasFound": [],
+  "title": "Herenstraat 64-Parkeren",
+  "textLength": 1515,
+  "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 Gevel Herenstraat 64 Pioenstraat bak kast bak kast boom bank L Herenstraat maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+  "paths": {
+    "pdf": "projects/herenstraat-64/extracted/pdfs/Herenstraat 64-Parkeren.pdf",
+    "text": "projects/herenstraat-64/extracted/texts/herenstraat-64-parkeren.txt",
+    "summary": "projects/herenstraat-64/extracted/summaries/herenstraat-64-parkeren.json"
+  }
+}

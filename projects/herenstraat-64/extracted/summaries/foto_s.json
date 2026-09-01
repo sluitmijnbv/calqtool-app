@@ -1,0 +1,20 @@
+{
+  "fileName": "Foto_s.pdf",
+  "relativePath": "Foto_s.pdf",
+  "slug": "foto_s",
+  "pages": 1,
+  "categories": [
+    "onbekend"
+  ],
+  "floors": [],
+  "scale": null,
+  "areasFound": [],
+  "title": "G:\\Projecten\\Herenstraat 64\\ONTWERP\\Herenstraat64 S02 (1)",
+  "textLength": 79,
+  "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047",
+  "paths": {
+    "pdf": "projects/herenstraat-64/extracted/pdfs/Foto_s.pdf",
+    "text": "projects/herenstraat-64/extracted/texts/foto_s.txt",
+    "summary": "projects/herenstraat-64/extracted/summaries/foto_s.json"
+  }
+}

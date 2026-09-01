@@ -1,0 +1,20 @@
+{
+  "fileName": "Plattegrond verdieping nieuw.pdf",
+  "relativePath": "Plattegrond verdieping nieuw.pdf",
+  "slug": "plattegrond-verdieping-nieuw",
+  "pages": 1,
+  "categories": [
+    "plattegrond"
+  ],
+  "floors": [],
+  "scale": null,
+  "areasFound": [],
+  "title": "Herenstraat 64-B11",
+  "textLength": 773,
+  "textPreview": "5 4 3 2 1 Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+  "paths": {
+    "pdf": "projects/herenstraat-64/extracted/pdfs/Plattegrond verdieping nieuw.pdf",
+    "text": "projects/herenstraat-64/extracted/texts/plattegrond-verdieping-nieuw.txt",
+    "summary": "projects/herenstraat-64/extracted/summaries/plattegrond-verdieping-nieuw.json"
+  }
+}

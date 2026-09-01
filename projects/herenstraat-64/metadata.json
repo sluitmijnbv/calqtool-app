@@ -60,8 +60,16 @@
     "purpose": ["gemeente", "bank"],
     "reportFormats": ["pdf", "xlsx"]
   },
-  "notes": [
-    "Volledige turnkey transformatie inclusief constructie, installaties en afbouw.",
-    "PDF-bronbestanden worden geëxtraheerd naar projects/herenstraat-64/extracted/."
-  ]
+    "notes": [
+      "Volledige turnkey transformatie inclusief constructie, installaties en afbouw.",
+      "PDF-bronbestanden in source/; extractie in extracted/.",
+      "482 m² GO totaal (5 woningen). Energielabel A per woning.",
+      "Indicatieve begroting: € 1.638.114 excl. BTW (zie begroting.json)."
+    ],
+    "extracted": {
+      "pdfCount": 34,
+      "totalPages": 127,
+      "totalFloorAreaM2": 482,
+      "budgetTotalExclBtw": 1638114
+    }
 }

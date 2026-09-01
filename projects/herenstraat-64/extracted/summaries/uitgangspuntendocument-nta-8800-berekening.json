@@ -1,0 +1,30 @@
+{
+  "fileName": "Uitgangspuntendocument NTA 8800 berekening.pdf",
+  "relativePath": "Uitgangspuntendocument NTA 8800 berekening.pdf",
+  "slug": "uitgangspuntendocument-nta-8800-berekening",
+  "pages": 3,
+  "categories": [
+    "plattegrond",
+    "gevel",
+    "detail",
+    "installatie",
+    "constructie"
+  ],
+  "floors": [
+    "BG"
+  ],
+  "scale": "1:89",
+  "areasFound": [
+    "3,70 m²",
+    "4,70 m²",
+    "6,30 m²"
+  ],
+  "title": null,
+  "textLength": 4004,
+  "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 Uitgangspuntendocument NTA 8800 berekening Project: transformatie schoolgebouw Herenstraat 164 Leiden tot 5 woningen Datum: 22 mei 2025 Inleiding Voor het project “transformatie schoolgebouw Herenstraat 164 in Leiden” zijn NTA 8800 berekeningen gemaakt (aangepast 22.05.2025) Deze notitie bevat de uitgangspunten en resultaten van de berekening. Voor dit pand betekent dit concreet dat aan de volgende eisen moet worden v",
+  "paths": {
+    "pdf": "projects/herenstraat-64/extracted/pdfs/Uitgangspuntendocument NTA 8800 berekening.pdf",
+    "text": "projects/herenstraat-64/extracted/texts/uitgangspuntendocument-nta-8800-berekening.txt",
+    "summary": "projects/herenstraat-64/extracted/summaries/uitgangspuntendocument-nta-8800-berekening.json"
+  }
+}

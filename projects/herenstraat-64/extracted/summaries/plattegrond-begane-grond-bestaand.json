@@ -1,0 +1,22 @@
+{
+  "fileName": "Plattegrond begane grond bestaand.pdf",
+  "relativePath": "Plattegrond begane grond bestaand.pdf",
+  "slug": "plattegrond-begane-grond-bestaand",
+  "pages": 1,
+  "categories": [
+    "plattegrond"
+  ],
+  "floors": [
+    "BG"
+  ],
+  "scale": null,
+  "areasFound": [],
+  "title": "Herenstraat 64-BO-10",
+  "textLength": 611,
+  "textPreview": "Behoort bij beschikking van Burgemeester en Wethouders van Leiden Z/25/3812047 maten in het werk controleren datum gewijzigd blad Herenstraat 64 te Leiden werk 2301-2024 schaal",
+  "paths": {
+    "pdf": "projects/herenstraat-64/extracted/pdfs/Plattegrond begane grond bestaand.pdf",
+    "text": "projects/herenstraat-64/extracted/texts/plattegrond-begane-grond-bestaand.txt",
+    "summary": "projects/herenstraat-64/extracted/summaries/plattegrond-begane-grond-bestaand.json"
+  }
+}
